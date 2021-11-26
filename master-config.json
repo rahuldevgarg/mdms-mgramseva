@@ -506,7 +506,7 @@
     },
     "WCBillingSlab": {
       "masterName": "WCBillingSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "WS_CHARGE": {
