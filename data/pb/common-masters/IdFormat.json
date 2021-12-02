@@ -15,33 +15,33 @@
       "idname": "pt.acknowledgementnumber"
     },
     {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_WS_METER_RCPT]",
       "idname": "watercharges.metered.receipt.id"
     },
     {
-      "format": "PT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "PT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_PR_RCPT]",
       "idname": "pt.receipt.id"
     },
      
     {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_WS_NM_RCPT]",
       "idname": "watercharges.nonmetered.receipt.id"
     },
     
     {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CHL_PL_RCPT]",
       "idname": "ch.plastic_challan.receipt.id"
     },
     {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CHL_RH_RCPT]",
       "idname": "ch.rehri_challan.receipt.id"
     },
     {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CHL_MIS_RCPT]",
       "idname": "ch.challan_for_misuse_of_water.receipt.id"
     },
     {
-      "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_ID]",
       "idname": "waterservice.connection.id"
     },
     {
@@ -53,33 +53,33 @@
       "idname": "receipt.id"
     },
     {
-      "format": "WS/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "WS/[fy:yyyy-yy]/[SEQ_EGOV_WS_RCPT]",
       "idname": "ws.receipt.id"
     },
      
     {
-      "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_WS_APPLNO]",
       "idname": "waterservice.application.id"
     },
  
    {
-         "format": "WS/OTP/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+         "format": "WS/OTP/[fy:yyyy-yy]/[SEQ_EG_WS_OT_RCPT]",
          "idname": "ws.one_time_fee.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_CHL_EB_RCPT]",
       "idname": "expense.electricity_bill.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_CHL_SAL_RCPT]",
       "idname": "expense.salary.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_CHL_OM_RCPT]",
       "idname": "expense.om.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_CHL_MIS_RCPT]",
       "idname": "expense.misc.receipt.id"
     } 
      
