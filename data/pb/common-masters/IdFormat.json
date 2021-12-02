@@ -15,17 +15,30 @@
       "idname": "pt.acknowledgementnumber"
     },
     {
-      "format": "PB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_RCPT]",
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_WS_METER_RCPT]",
       "idname": "watercharges.metered.receipt.id"
     },
     {
-      "format": "PB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_RCPT]",
+      "format": "PT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_PR_RCPT]",
       "idname": "pt.receipt.id"
     },
      
     {
-      "format": "PB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_RCPT]",
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_WS_NM_RCPT]",
       "idname": "watercharges.nonmetered.receipt.id"
+    },
+    
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CHL_PL_RCPT]",
+      "idname": "ch.plastic_challan.receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CHL_RH_RCPT]",
+      "idname": "ch.rehri_challan.receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CHL_MIS_RCPT]",
+      "idname": "ch.challan_for_misuse_of_water.receipt.id"
     },
     {
       "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_ID]",
@@ -36,11 +49,11 @@
       "idname": "pg.txnid"
     },
     {
-      "format": "PB/[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_RCPT]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
       "idname": "receipt.id"
     },
     {
-      "format": "WS/[fy:yyyy-yy]/[SEQ_EG_WS_RCPT]",
+      "format": "WS/[fy:yyyy-yy]/[SEQ_EGOV_WS_RCPT]",
       "idname": "ws.receipt.id"
     },
      
@@ -50,23 +63,23 @@
     },
  
    {
-         "format": "WS/OTP/[fy:yyyy-yy]/[SEQ_EG_WS_RCPT]",
+         "format": "WS/OTP/[fy:yyyy-yy]/[SEQ_EG_WS_OT_RCPT]",
          "idname": "ws.one_time_fee.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_CHL_EB_RCPT]",
       "idname": "expense.electricity_bill.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_CHL_SAL_RCPT]",
       "idname": "expense.salary.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_CHL_OM_RCPT]",
       "idname": "expense.om.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_CHL_MIS_RCPT]",
       "idname": "expense.misc.receipt.id"
     } 
      
