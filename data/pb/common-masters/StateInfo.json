@@ -7,7 +7,7 @@
       "code": "pb",
       "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
       "bannerUrl": "https://pb-mgramseva-assets.s3.ap-south-1.amazonaws.com/Punjab-bg-QA.jpg",
-      "logoUrl": "https://pb-mgramseva-assets.s3.ap-south-1.amazonaws.com/image.png",
+      "logoUrl": "https://mgramseva-dwss.punjab.gov.in/mgramseva-dev-assets/logo/govt-of-punjab-logo.png",
       "logoUrlWhite": "https://pb-mgramseva-assets.s3.ap-south-1.amazonaws.com/imagewhite.png",
       "hasLocalisation": true,
       "enableWhatsApp": true,
