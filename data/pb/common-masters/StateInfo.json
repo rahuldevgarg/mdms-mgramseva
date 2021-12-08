@@ -9,6 +9,7 @@
       "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
       "logoUrl": "https://mgramseva-qa.egov.org.in/mgramseva-dev-assets/logo/image.png",
       "logoUrlWhite": "https://mgramseva-qa.egov.org.in/mgramseva-dev-assets/logo/imagewhite.png",
+      "stateLogoURL":"https://mgramseva-qa.egov.org.in/mgramseva-dev-assets/logo/punjab-logo.png",
       "hasLocalisation": true,
       "enableWhatsApp": true,
       "defaultUrl": {
