@@ -7,24 +7,24 @@
       "idname": "seq.autocreate.test"
     },
     {
-      "format": "PB-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
+      "format": "PB-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID_[TENANT_ID]]",
       "idname": "pt.propertyid"
     },
     {
-      "format": "PB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+      "format": "PB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK_[TENANT_ID]]",
       "idname": "pt.acknowledgementnumber"
     },
     {
-      "format": "PB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_RCPT]",
+      "format": "PB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_RCPT_[TENANT_ID]]",
       "idname": "watercharges.metered.receipt.id"
     },
     {
-      "format": "PB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_RCPT]",
+      "format": "PB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_RCPT_[TENANT_ID]]",
       "idname": "pt.receipt.id"
     },
      
     {
-      "format": "PB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_RCPT]",
+      "format": "PB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_RCPT_[TENANT_ID]]",
       "idname": "watercharges.nonmetered.receipt.id"
     },
     {
@@ -36,11 +36,11 @@
       "idname": "pg.txnid"
     },
     {
-      "format": "PB/[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_RCPT]",
+      "format": "PB/[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_RCPT_[TENANT_ID]]",
       "idname": "receipt.id"
     },
     {
-      "format": "WS/[fy:yyyy-yy]/[SEQ_EG_WS_RCPT]",
+      "format": "WS/[fy:yyyy-yy]/[SEQ_EG_WS_RCPT_[TENANT_ID]]",
       "idname": "ws.receipt.id"
     },
      
@@ -50,23 +50,23 @@
     },
  
    {
-         "format": "WS/OTP/[fy:yyyy-yy]/[SEQ_EG_WS_RCPT]",
+         "format": "WS/OTP/[fy:yyyy-yy]/[SEQ_EG_WS_RCPT_[TENANT_ID]]",
          "idname": "ws.one_time_fee.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
       "idname": "expense.electricity_bill.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
       "idname": "expense.salary.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
       "idname": "expense.om.receipt.id"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT]",
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
       "idname": "expense.misc.receipt.id"
     } 
      
