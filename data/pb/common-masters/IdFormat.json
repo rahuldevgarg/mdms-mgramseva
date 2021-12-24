@@ -81,8 +81,11 @@
     {
       "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_CHL_MIS_RCPT]",
       "idname": "expense.misc.receipt.id"
-    } 
-     
+    },
+     {
+      "format": "BILLNO-MODULE-[SEQ_EGBS_BILLNUMBER_[TENANT_ID]]",
+      "idname": "bill.billnumber"
+    }
   ]
 }
 
