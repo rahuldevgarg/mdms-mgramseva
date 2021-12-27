@@ -20,15 +20,15 @@
       "fromDate": 1617172199000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-      "service": "EXPENSE.OM",
-      "code": "EXPENSEOM",
+      "service": "EXPENSE.MACHINERY_REPAIR",
+      "code": "EXPENSEMACHINERYREPAIR",
       "financialYear": "2021-22"
     },{
       "fromDate": 1617172199000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-      "service": "EXPENSE.MISC",
-      "code": "EXPENSEMISC",
+      "service": "EXPENSE.OTHERS",
+      "code": "EXPENSEOTHERS",
       "financialYear": "2021-22"
     },{
       "fromDate": 1617215400000,
@@ -42,8 +42,8 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "TWOYEARS",
-      "service": "EXPENSE.SODIUM_CHLORINATION",
-      "code": "EXPENSESODIUMCHLORINATION",
+      "service": "EXPENSE.CHLORINATION",
+      "code": "EXPENSECHLORINATION",
       "financialYear": "2021-22"
     },
     {
@@ -52,6 +52,30 @@
       "periodCycle": "TWOYEARS",
       "service": "EXPENSE.WATER_TREATMENT",
       "code": "EXPENSEWATERTREATMENT",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.PIPELINE_REPAIR",
+      "code": "EXPENSEPIPELINEREPAIR",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.WATER_TREATMENT",
+      "code": "EXPENSEWATERTREATMENT",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.NEWMACHINERY",
+      "code": "EXPENSENEWMACHINERY",
       "financialYear": "2021-22"
     }
   ]
