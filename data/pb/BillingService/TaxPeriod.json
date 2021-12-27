@@ -66,16 +66,16 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "TWOYEARS",
-      "service": "EXPENSE.WATER_TREATMENT",
-      "code": "EXPENSEWATERTREATMENT",
+      "service": "EXPENSE.NEW_MACHINERY",
+      "code": "EXPENSENEWMACHINERY",
       "financialYear": "2021-22"
     },
     {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "TWOYEARS",
-      "service": "EXPENSE.NEWMACHINERY",
-      "code": "EXPENSENEWMACHINERY",
+      "service": "EXPENSE.NEW_PIPELINE",
+      "code": "EXPENSENEWPIPELINE",
       "financialYear": "2021-22"
     }
   ]
