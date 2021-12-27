@@ -15,28 +15,46 @@
       "taxHeadCode":"20201"
     },
     {
-      "name": "O&M",
-      "code": "OM",
+      "name": "Machinery Repair",
+      "code": "MACHINERY_REPAIR",
       "active": true,
       "taxHeadCode":"20301"
     },
     {
-      "name": "MISC",
-      "code": "MISC",
+      "name": "Others",
+      "code": "OTHERS",
       "active": true,
       "taxHeadCode":"20401"
     },
     {
-      "name": " SODIUM CHLORINATION",
-      "code": "SODIUM_CHLORINATION",
+      "name": "Chlorination",
+      "code": "CHLORINATION",
+      "active": true,
+      "taxHeadCode":"20303"
+    },
+    {
+      "name": "Water Treatment",
+      "code": "WATER_TREATMENT",
+      "active": true,
+      "taxHeadCode":"20304"
+    },
+    {
+      "name": "Pipeline Repair",
+      "code": "PIPELINE_REPAIR",
       "active": true,
       "taxHeadCode":"20302"
     },
     {
-      "name": "WATER TREATMENT",
-      "code": "WATER_TREATMENT",
+      "name": "New Machinery",
+      "code": "NEW_MACHINERY",
       "active": true,
-      "taxHeadCode":"20303"
+      "taxHeadCode":"40101"
+    },
+    {
+      "name": "New Pipeline",
+      "code": "NEW_PIPELINE",
+      "active": true,
+      "taxHeadCode":"40102"
     }
   ]
 }
