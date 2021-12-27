@@ -24,9 +24,9 @@
     },
     {
       "category": "CHARGES",
-      "service": "EXPENSE.SODIUM_CHLORINATION",
-      "name": "EXPENSE.SODIUM_CHLORINATION",
-      "code": "20302",
+      "service": "EXPENSE.CHLORINATION",
+      "name": "EXPENSE.CHLORINATION",
+      "code": "20303",
       "isDebit": true,
       "isActualDemand": false,
       "order": "1",
@@ -36,7 +36,7 @@
       "category": "CHARGES",
       "service": "EXPENSE.WATER_TREATMENT",
       "name": "EXPENSE.WATER_TREATMENT",
-      "code": "20303",
+      "code": "20304",
       "isDebit": true,
       "isActualDemand": false,
       "order": "1",
@@ -54,8 +54,8 @@
     },
     {
       "category": "CHARGES",
-      "service": "EXPENSE.OM",
-      "name": "O&M",
+      "service": "EXPENSE.MACHINERY_REPAIR",
+      "name": "Machinery Repair",
       "code": "20301",
       "isDebit": true,
       "isActualDemand": false,
@@ -64,8 +64,8 @@
     },
     {
       "category": "CHARGES",
-      "service": "EXPENSE.MISC",
-      "name": "MISC",
+      "service": "EXPENSE.OTHERS",
+      "name": "Others",
       "code": "20401",
       "isDebit": true,
       "isActualDemand": false,
@@ -192,6 +192,36 @@
       "order": "3",
       "isRequired": false,
       "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "EXPENSE.PIPELINE_REPAIR",
+      "name": "Pipeline Repair",
+      "code": "20302",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "EXPENSE.NEW_MACHINERY",
+      "name": "New Machinery",
+      "code": "40101",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "EXPENSE.NEW_PIPELINE",
+      "name": "New Pipeline",
+      "code": "40102",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
     }
   ]
 }
