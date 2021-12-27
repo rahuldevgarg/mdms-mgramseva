@@ -55,6 +55,12 @@
       "code": "NEW_PIPELINE",
       "active": true,
       "taxHeadCode":"40102"
+    },
+     {
+      "name": "Incentives",
+      "code": "INCENTIVES",
+      "active": true,
+      "taxHeadCode":"20202"
     }
   ]
 }
