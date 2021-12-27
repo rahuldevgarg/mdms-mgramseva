@@ -27,8 +27,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "EXPENSE.OM",
-      "code": "EXPENSE.OM",
+      "businessService": "EXPENSE.MACHINERY_REPAIR",
+      "code": "EXPENSE.MACHINERY_REPAIR",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -39,8 +39,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "EXPENSE.MISC",
-      "code": "EXPENSE.MISC",
+      "businessService": "EXPENSE.OTHERS",
+      "code": "EXPENSE.OTHERS",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -70,8 +70,8 @@
       "isBillAmendmentEnabled":true
     },
     {
-      "businessService": "EXPENSE.SODIUM_CHLORINATION",
-      "code": "EXPENSE.SODIUM_CHLORINATION",
+      "businessService": "EXPENSE.CHLORINATION",
+      "code": "EXPENSE.CHLORINATION",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -84,6 +84,42 @@
     {
       "businessService": "EXPENSE.WATER_TREATMENT",
       "code": "EXPENSE.WATER_TREATMENT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "EXPENSE.PIPELINE_REPAIR",
+      "code": "EXPENSE.PIPELINE_REPAIR",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "EXPENSE.NEW_MACHINERY",
+      "code": "EXPENSE.NEW_MACHINERY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "EXPENSE.NEW_PIPELINE",
+      "code": "EXPENSE.NEW_PIPELINE",
       "collectionModesNotAllowed": [
         "DD"
       ],
