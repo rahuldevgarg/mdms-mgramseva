@@ -222,6 +222,16 @@
       "isActualDemand": false,
       "order": "1",
       "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "EXPENSE.INCENTIVES",
+      "name": "Incentives",
+      "code": "20202",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
     }
   ]
 }
