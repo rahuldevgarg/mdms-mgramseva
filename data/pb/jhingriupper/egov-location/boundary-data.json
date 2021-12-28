@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.jhinjriupper",
+  "tenantId": "pb.jhingriupper",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "JHINGJRI UPPER",
-        "localname": "JHINJRI UPPER",
+        "name": "JHINGRI UPPER",
+        "localname": "JHINGRI UPPER",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.jhinjriupper",
+        "code": "pb.jhingriupper",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "JHINJRI UPPER",
-            "localname": "JHINJRI UPPER",
+            "name": "JHINGRI UPPER",
+            "localname": "JHINGRI UPPER",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "JHINJRI UPPER",
-        "localname": "JHINJRI UPPER",
+        "name": "JHINGRI UPPER",
+        "localname": "JHINGRI UPPER",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.jhinjriupper",
+        "code": "pb.jhingriupper",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "JHINJRI UPPER",
-            "localname": "JHINJRI UPPER",
+            "name": "JHINGRI UPPER",
+            "localname": "JHINGRI UPPER",
             "longitude": null,
             "latitude": null,
             "label": "Locality",

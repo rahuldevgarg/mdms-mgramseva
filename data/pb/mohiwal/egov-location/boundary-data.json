@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.tarapur",
+  "tenantId": "pb.mohiwal",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "TARAPUR",
-        "localname": "TARAPUR",
+        "name": "MOHIWAL",
+        "localname": "MOHIWAL",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.tarapur",
+        "code": "pb.mohiwal",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "TARAPUR",
-            "localname": "TARAPUR",
+            "name": "MOHIWAL",
+            "localname": "MOHIWAL",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "TARAPUR",
-        "localname": "TARAPUR",
+        "name": "MOHIWAL",
+        "localname": "MOHIWAL",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.tarapur",
+        "code": "pb.mohiwal",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "TARAPUR",
-            "localname": "TARAPUR",
+            "name": "MOHIWAL",
+            "localname": "MOHIWAL",
             "longitude": null,
             "latitude": null,
             "label": "Locality",

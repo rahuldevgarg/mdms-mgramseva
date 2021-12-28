@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.mahian",
+  "tenantId": "pb.mehian",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "MAHIAN",
-        "localname": "MAHIAN",
+        "name": "MEHIAN",
+        "localname": "MEHIAN",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.mahian",
+        "code": "pb.mehian",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "MAHIAN",
-            "localname": "MAHIAN",
+            "name": "MEHIAN",
+            "localname": "MEHIAN",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "MAHIAN",
-        "localname": "MAHIAN",
+        "name": "MEHIAN",
+        "localname": "MEHIAN",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.mahian",
+        "code": "pb.mehian",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "MAHIAN",
-            "localname": "MAHIAN",
+            "name": "MEHIAN",
+            "localname": "MEHIAN",
             "longitude": null,
             "latitude": null,
             "label": "Locality",

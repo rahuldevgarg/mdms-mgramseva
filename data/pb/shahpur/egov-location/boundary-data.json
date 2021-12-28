@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.shahpurbela",
+  "tenantId": "pb.shahpur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "SHAHPURBELA",
-        "localname": "SHAHPURBELA",
+        "name": "SHAHPUR",
+        "localname": "SHAHPUR",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.shahpurbela",
+        "code": "pb.shahpur",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "SHAHPURBELA",
-            "localname": "SHAHPURBELA",
+            "name": "SHAHPUR",
+            "localname": "SHAHPUR",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "SHAHPURBELA",
-        "localname": "SHAHPURBELA",
+        "name": "SHAHPUR",
+        "localname": "SHAHPUR",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.shahpurbela",
+        "code": "pb.shahpur",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "SHAHPURBELA",
-            "localname": "SHAHPURBELA",
+            "name": "SHAHPUR",
+            "localname": "SHAHPUR",
             "longitude": null,
             "latitude": null,
             "label": "Locality",

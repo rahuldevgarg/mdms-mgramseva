@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.pallikhurd",
+  "tenantId": "pb.pailikhurd",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "PALLI KHURD",
-        "localname": "PALLI KHURD",
+        "name": "PAILI KHURD",
+        "localname": "PAILI KHURD",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.pallikhurd",
+        "code": "pb.pailikhurd",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "PALLI KHURD",
-            "localname": "PALLI KHURD",
+            "name": "PAILI KHURD",
+            "localname": "PAILI KHURD",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "PALLI KHURD",
-        "localname": "PALLI KHURD",
+        "name": "PAILI KHURD",
+        "localname": "PAILI KHURD",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.pallikhurd",
+        "code": "pb.pailikhurd",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "PALLI KHURD",
-            "localname": "PALLI KHURD",
+            "name": "PAILI KHURD",
+            "localname": "PAILI KHURD",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
