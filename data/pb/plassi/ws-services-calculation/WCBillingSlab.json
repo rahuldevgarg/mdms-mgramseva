@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.plassisinghpura",
+  "tenantId": "pb.plassi",
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
@@ -72,7 +72,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 150
+      "minimumCharge": 50
     },
     {
       "id": "6",
@@ -80,7 +80,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 150
+      "minimumCharge": 50
     },
     {
       "id": "7",
@@ -88,7 +88,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 150
+      "minimumCharge": 50
     },
        {
       "id": "8",
@@ -96,7 +96,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 150
+      "minimumCharge": 50
     }
   ]
 }
