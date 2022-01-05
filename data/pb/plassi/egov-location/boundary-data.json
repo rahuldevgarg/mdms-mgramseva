@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.plassisinghpura",
+  "tenantId": "pb.plassi",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "PLASSISINGHPURA",
-        "localname": "PLASSISINGHPURA",
+        "name": "PLASSI",
+        "localname": "PLASSI",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.plassisinghpura",
+        "code": "pb.plassi",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "PLASSISINGHPURA",
-            "localname": "PLASSISINGHPURA",
+            "name": "PLASSI",
+            "localname": "PLASSI",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "PLASSISINGHPURA",
-        "localname": "PLASSISINGHPURA",
+        "name": "PLASSI",
+        "localname": "PLASSI",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.plassisinghpura",
+        "code": "pb.plassi",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "PLASSISINGHPURA",
-            "localname": "PLASSISINGHPURA",
+            "name": "PLASSI",
+            "localname": "PLASSI",
             "longitude": null,
             "latitude": null,
             "label": "Locality",

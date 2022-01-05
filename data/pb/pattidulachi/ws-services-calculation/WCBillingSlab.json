@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.plassisinghpura",
+  "tenantId": "pb.pattidulachi",
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
@@ -13,7 +13,7 @@
         {
           "from": 0,
           "to": 1000000,
-          "charge": 5,
+          "charge": 2,
           "meterCharge": 50
         }
       ]
@@ -22,13 +22,14 @@
       "id": 2,
       "buildingType": "COMMERCIAL",
       "calculationAttribute": "Water consumption",
-      "connectionType": "Metered",      
-      "minimumCharge": 100,
+      "connectionType": "Metered",
+      
+      "minimumCharge": 200,
       "slabs": [
         {
           "from": 0,
           "to": 1000000,
-          "charge": 5,
+          "charge": 13.31,
           "meterCharge": 532.4
           
         }
@@ -38,13 +39,14 @@
       "id": 3,
       "buildingType": "MIXED",
       "calculationAttribute": "Water consumption",
-      "connectionType": "Metered", 
-      "minimumCharge": 100,
+      "connectionType": "Metered",
+      
+      "minimumCharge": 200,
       "slabs": [
         {
           "from": 0,
           "to": 1000000,
-          "charge":5,
+          "charge": 13.31,
           "meterCharge": 532.4
           
         }
@@ -61,7 +63,7 @@
         {
           "from": 0,
           "to": 1000000,
-          "charge": 5,
+          "charge": 8,
           "meterCharge": 250
         }
       ]
@@ -72,7 +74,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 150
+      "minimumCharge": 100
     },
     {
       "id": "6",
@@ -80,7 +82,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 150
+      "minimumCharge": 100
     },
     {
       "id": "7",
@@ -88,7 +90,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 150
+      "minimumCharge": 100
     },
        {
       "id": "8",
@@ -96,7 +98,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 150
+      "minimumCharge": 100
     }
   ]
 }

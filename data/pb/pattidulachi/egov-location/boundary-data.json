@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.pattiduachi",
+  "tenantId": "pb.pattidulachi",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,8 +10,8 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "PATTI DUACHI",
-        "localname": "PATTI DUACHI",
+        "name": "PATTI DULACHI",
+        "localname": "PATTI DULACHI",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -20,8 +20,8 @@
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "PATTI DUACHI",
-            "localname": "PATTI DUACHI",
+            "name": "PATTI DULACHI",
+            "localname": "PATTI DULACHI",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,8 +38,8 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "PATTI DUACHI",
-        "localname": "PATTI DUACHI",
+        "name": "PATTI DULACHI",
+        "localname": "PATTI DULACHI",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -48,8 +48,8 @@
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "PATTI DUACHI",
-            "localname": "PATTI DUACHI",
+            "name": "PATTI DULACHI",
+            "localname": "PATTI DULACHI",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
