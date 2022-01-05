@@ -67,11 +67,35 @@
     },
     {
       "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
-      "idname": "expense.om.receipt.id"
+      "idname": "expense.others.receipt.id"
     },
     {
       "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
-      "idname": "expense.misc.receipt.id"
+      "idname": "expense.machinery_repair.receipt.id"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
+      "idname": "expense.chlorination.receipt.id"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
+      "idname": "expense.water_treatment.receipt.id"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
+      "idname": "expense.new_machinery.receipt.id"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
+      "idname": "expense.pipeline_repair.receipt.id"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
+      "idname": "expense.new_pipeline.receipt.id"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EG_EX_RCPT_[TENANT_ID]]",
+      "idname": "expense.incentives.receipt.id"
     },
     {
       "format": "BILLNO-MODULE-[SEQ_EGBS_BILLNUMBER_[TENANT_ID]]",
