@@ -334,7 +334,7 @@
                 "captcha": null,
                 "code": "7278",
                 "ddrName": "BARUWAL",
-                "projectId": 7278
+                "projectId": "7278"
             },
             "address": "Water Supply Scheme Baruwal ",
             "pincode": [],
@@ -369,7 +369,7 @@
                 "captcha": null,
                 "code": "0001",
                 "ddrName": "TESTING",
-                "projectId": 0001
+                "projectId": "0001"
             },
             "address": "Water Supply Scheme Testing ",
             "pincode": [],
