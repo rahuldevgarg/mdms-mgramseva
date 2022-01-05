@@ -1575,9 +1575,9 @@
             "pdfContactDetails": ""
         },
         {
-            "code": "pb.pattiduachi",
-            "name": "PATTI DUACHI",
-            "description": "PATTI DUACHI",
+            "code": "pb.pattidulachi",
+            "name": "PATTI DULACHI",
+            "description": "PATTI DULACHI",
             "logoId": "",
             "imageId": null,
             "domainUrl": "",
@@ -1589,8 +1589,8 @@
                 "Mon - Fri": "9.00 AM - 5.00 PM"
             },
             "city": {
-                "name": "PATTI DUACHI",
-                "localName": "PATTI DUACHI",
+                "name": "PATTI DULACHI",
+                "localName": "PATTI DULACHI",
                 "districtCode": "",
                 "districtName": "Rupnagar Sri Anandur Sahib",
                 "regionName": "",
@@ -1601,7 +1601,7 @@
                 "captcha": null,
                 "code": "1742992",
                 "regionCode": "",
-                "municipalityName": "PATTI DUACHI",
+                "municipalityName": "PATTI DULACHI",
                 "ddrName": "Patti Dulachi",
                 "projectId": "1742992"
             },
