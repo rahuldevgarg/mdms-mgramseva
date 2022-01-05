@@ -789,9 +789,44 @@
                 "captcha": null,
                 "code": "7278",
                 "ddrName": "BARUWAL",
-                "projectId": 7278
+                "projectId": "7278"
             },
             "address": "Water Supply Scheme Baruwal ",
+            "pincode": [],
+            "contactNumber": "",
+            "pdfHeader": "",
+            "pdfContactDetails": ""
+        },
+        {
+            "code": "pb.testing",
+            "name": "TESTING",
+            "description": "TESTING",
+            "logoId": "",
+            "imageId":null,
+            "domainUrl": "",
+            "type": "CITY",
+            "twitterUrl":null,
+            "facebookUrl":null,
+            "emailId": "",
+            "OfficeTimings": {
+                "Mon - Fri": "9.00 AM - 6.00 PM"
+            },
+            "city": {
+                "name": "TESTING",
+                "localName": "TESTING",
+                "districtCode": null,
+                "districtName": "Rupnagar Sri Anandur Sahib",
+                "regionName": "Testing",
+                "ulbGrade": "",
+                "longitude": null,
+                "latitude": null,
+                "shapeFileLocation": null,
+                "captcha": null,
+                "code": "0001",
+                "ddrName": "TESTING",
+                "projectId": "0001"
+            },
+            "address": "Water Supply Scheme Testing ",
             "pincode": [],
             "contactNumber": "",
             "pdfHeader": "",
