@@ -4,7 +4,7 @@
   "CronJobAPIConfig": [
     {
       "jobName": "monthly",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://ws-calculator.mgramseva:8080/ws-calculator/waterCalculator/_jobscheduler/false",
       "payload": {
