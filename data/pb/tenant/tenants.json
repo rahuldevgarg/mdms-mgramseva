@@ -215,41 +215,7 @@
             "pdfHeader": "",
             "pdfContactDetails": ""
 },
-{
-            "code": "pb.surewallower",
-            "name": "Surewal Lower",
-            "description": "Surewal Lower",
-            "logoId": "",
-            "imageId": null,
-            "domainUrl": "",
-            "type": "CITY",
-            "twitterUrl": null,
-            "facebookUrl": null,
-            "emailId": "",
-            "OfficeTimings": {
-                "Mon - Fri": "9.00 AM - 5.00 PM"
-            },
-            "city": {
-                "name": "Surewal Lower",
-                "localName": "Surewal Lower",
-                "districtCode": "",
-                "districtName": null,
-                "regionName": "",
-                "ulbGrade": "",
-                "longitude": null,
-                "latitude": null,
-                "shapeFileLocation": null,
-                "captcha": null,
-                "code": "793554",
-                "ddrName": "Surewal Lower",
-                "projectId": "7935554"
-            },
-            "address": "Surewal Lower",
-            "pincode": [],
-            "contactNumber": "",
-            "pdfHeader": "",
-            "pdfContactDetails": ""
-},
+
 {
             "code": "pb.tapprian",
             "name": "Tapprian",
