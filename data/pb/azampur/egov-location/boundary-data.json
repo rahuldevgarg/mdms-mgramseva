@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.ajampur",
+  "tenantId": "pb.azampur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "AJAMPUR",
-        "localname": "AJAMPUR",
+        "name": "AZAMPUR",
+        "localname": "AZAMPUR",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.ajampur",
+        "code": "pb.azampur",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "AJAMPUR",
-            "localname": "AJAMPUR",
+            "name": "AZAMPUR",
+            "localname": "AZAMPUR",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "AJAMPUR",
-        "localname": "AJAMPUR",
+        "name": "AZAMPUR",
+        "localname": "AZAMPUR",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.ajampur",
+        "code": "pb.azampur",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "AJAMPUR",
-            "localname": "AJAMPUR",
+            "name": "AZAMPUR",
+            "localname": "AZAMPUR",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
