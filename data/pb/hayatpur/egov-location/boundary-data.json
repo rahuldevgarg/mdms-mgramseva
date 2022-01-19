@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.hyatpur",
+  "tenantId": "pb.hayatpur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "HYATPUR",
-        "localname": "HYATPUR",
+        "name": "HAYATPUR",
+        "localname": "HAYATPUR",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.hyatpur",
+        "code": "pb.hayatpur",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "HYATPUR",
-            "localname": "HYATPUR",
+            "name": "HAYATPUR",
+            "localname": "HAYATPUR",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "HYATPUR",
-        "localname": "HYATPUR",
+        "name": "HAYATPUR",
+        "localname": "HAYATPUR",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.hyatpur",
+        "code": "pb.hayatpur",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "HYATPUR",
-            "localname": "HYATPUR",
+            "name": "HAYATPUR",
+            "localname": "HAYATPUR",
             "longitude": null,
             "latitude": null,
             "label": "Locality",

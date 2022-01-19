@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.brahammajra",
+  "tenantId": "pb.bahmanmajra",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,7 +10,7 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "BRAHAM MAJRA",
+        "name": "BAHMAN MAJRA",
         "localname": "BRAHAM MAJRA",
         "longitude": null,
         "latitude": null,
@@ -20,8 +20,8 @@
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "BRAHAM MAJRA",
-            "localname": "BRAHAM MAJRA",
+            "name": "BAHMAN MAJRA",
+            "localname": "BAHMAN MAJRA",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "BRAHAM MAJRA",
-        "localname": "BRAHAM MAJRA",
+        "name": "BAHMAN MAJRA",
+        "localname": "BAHMAN MAJRA",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.brahammajra",
+        "code": "pb.bahmanmajra",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "BRAHAM MAJRA",
-            "localname": "BRAHAM MAJRA",
+            "name": "BAHMAN MAJRA",
+            "localname": "BAHMAN MAJRA",
             "longitude": null,
             "latitude": null,
             "label": "Locality",

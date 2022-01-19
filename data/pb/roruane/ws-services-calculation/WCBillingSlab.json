@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.roruana",
+  "tenantId": "pb.roruane",
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
@@ -74,7 +74,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 165
+      "minimumCharge": 100
     },
     {
       "id": "6",
@@ -82,7 +82,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 165
+      "minimumCharge": 100
     },
     {
       "id": "7",
@@ -90,7 +90,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 165
+      "minimumCharge": 100
     },
        {
       "id": "8",
@@ -98,7 +98,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 165
+      "minimumCharge": 100
     }
   ]
 }

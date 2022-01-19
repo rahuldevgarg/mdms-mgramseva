@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.roruana",
+  "tenantId": "pb.roruane",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "RORUANA",
-        "localname": "RORUANA",
+        "name": "RORUANE",
+        "localname": "RORUANE",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.roruana",
+        "code": "pb.roruane",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "RORUANA",
-            "localname": "RORUANA",
+            "name": "RORUANE",
+            "localname": "RORUANE",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "RORUANA",
-        "localname": "RORUANA",
+        "name": "RORUANE",
+        "localname": "RORUANE",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.roruana",
+        "code": "pb.roruane",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "RORUANA",
-            "localname": "RORUANA",
+            "name": "RORUANE",
+            "localname": "RORUANE",
             "longitude": null,
             "latitude": null,
             "label": "Locality",

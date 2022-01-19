@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.dhahan",
+  "tenantId": "pb.dhahanbass",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "DHAHAN",
-        "localname": "DHAHAN",
+        "name": "DHAHAN BASS",
+        "localname": "DHAHAN BASS",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.dhahan",
+        "code": "pb.dhahanbass",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "DHAHAN",
-            "localname": "DHAHAN",
+            "name": "DHAHAN BASS",
+            "localname": "DHAHAN BASS",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "DHAHAN",
-        "localname": "DHAHAN",
+        "name": "DHAHAN BASS",
+        "localname": "DHAHAN BASS",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.dhahan",
+        "code": "pb.dhahanbass",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "DHAHAN",
-            "localname": "DHAHAN",
+            "name": "DHAHAN BASS",
+            "localname": "DHAHAN BASS",
             "longitude": null,
             "latitude": null,
             "label": "Locality",

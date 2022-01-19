@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.saskour",
+  "tenantId": "pb.saskaur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "SASKOUR",
-        "localname": "SASKOUR",
+        "name": "SASKAUR",
+        "localname": "SASKAUR",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.saskour",
+        "code": "pb.saskaur",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "SASKOUR",
-            "localname": "SASKOUR",
+            "name": "SASKAUR",
+            "localname": "SASKAUR",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "SASKOUR",
-        "localname": "SASKOUR",
+        "name": "SASKAUR",
+        "localname": "SASKAUR",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.saskour",
+        "code": "pb.saskaur",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "SASKOUR",
-            "localname": "SASKOUR",
+            "name": "SASKAUR",
+            "localname": "SASKAUR",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
