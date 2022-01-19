@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.asalatpur",
+  "tenantId": "pb.asaltpur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "ASALATPUR",
-        "localname": "ASALATPUR",
+        "name": "ASALTPUR",
+        "localname": "ASALTPUR",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.asalatpur",
+        "code": "pb.asaltpur",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "ASALATPUR",
-            "localname": "ASALATPUR",
+            "name": "ASALTPUR",
+            "localname": "ASALTPUR",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -38,18 +38,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "ASALATPUR",
-        "localname": "ASALATPUR",
+        "name": "ASALTPUR",
+        "localname": "ASALTPUR",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.asalatpur",
+        "code": "pb.asaltpur",
         "children":[
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "ASALATPUR",
-            "localname": "ASALATPUR",
+            "name": "ASALTPUR",
+            "localname": "ASALTPUR",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
