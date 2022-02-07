@@ -2639,6 +2639,18 @@
       "actionid": 2029,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
