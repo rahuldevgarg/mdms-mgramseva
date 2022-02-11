@@ -142,6 +142,43 @@
             "pdfContactDetails": ""
         },
         {
+            "code": "pb.nurpurbedi",
+            "name": "NURPUR BEDI",
+            "description": "NURPUR BEDI",
+            "logoId": "",
+            "imageId": null,
+            "domainUrl": "",
+            "type": "CITY",
+            "twitterUrl": null,
+            "facebookUrl": null,
+            "emailId": "",
+            "OfficeTimings": {
+                "Mon - Fri": "9.00 AM - 5.00 PM"
+            },
+            "city": {
+                "name": "NURPUR BEDI",
+                "localName": "NURPUR BEDI",
+                "districtCode": "",
+                "districtName": "Rupnagar Sri Anandur Sahib",
+                "regionName": "",
+                "ulbGrade": "",
+                "longitude": null,
+                "latitude": null,
+                "shapeFileLocation": null,
+                "captcha": null,
+                "code": "7230",
+                "regionCode": "",
+                "municipalityName": "NURPUR BEDI",
+                "ddrName": "nurpur bedi",
+                "projectId": "7230"
+            },
+            "address": "Water Supply Scheme Nurpur Bedi",
+            "pincode": [],
+            "contactNumber": "",
+            "pdfHeader": "",
+            "pdfContactDetails": ""
+        },
+        {
             "code": "pb.dabourlower",
             "name": "DABOUR LOWER",
             "description": "DABOUR LOWER",
