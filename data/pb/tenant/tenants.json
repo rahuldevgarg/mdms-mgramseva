@@ -3147,6 +3147,204 @@
     "contactNumber": "",
     "pdfHeader": "",
     "pdfContactDetails": ""
+},{
+    "code": "pb.saran",
+    "name": "Saran",
+    "description": "Saran",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "CITY",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+        "name": "Saran",
+        "localName": "Saran",
+        "districtCode": "",
+        "districtName": null,
+        "regionName": "",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "7250",
+        "ddrName": "Saran",
+        "projectId": "7250"
+    },
+    "address": "Saran",
+    "pincode": [],
+    "contactNumber": "",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
+},{
+    "code": "pb.bhaowal",
+    "name": "Bhaowal",
+    "description": "Bhaowal",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "CITY",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+        "name": "Bhaowal",
+        "localName": "Bhaowal",
+        "districtCode": "",
+        "districtName": null,
+        "regionName": "",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "7166",
+        "ddrName": "Bhaowal",
+        "projectId": "7166"
+    },
+    "address": "Bhaowal",
+    "pincode": [],
+    "contactNumber": "",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
+},{
+    "code": "pb.bhaini",
+    "name": "BHAINI",
+    "description": "BHAINI",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "CITY",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+        "name": "BHAINI",
+        "localName": "BHAINI",
+        "districtCode": "",
+        "districtName": null,
+        "regionName": "",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "7161",
+        "ddrName": "BHAINI",
+        "projectId": "7161"
+    },
+    "address": "BHAINI",
+    "pincode": [],
+    "contactNumber": "",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
+},{
+    "code": "pb.kartarpur",
+    "name": "KARTARPUR",
+    "description": "KARTARPUR",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "CITY",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+        "name": "KARTARPUR",
+        "localName": "KARTARPUR",
+        "districtCode": "",
+        "districtName": null,
+        "regionName": "",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "7206",
+        "ddrName": "KARTARPUR",
+        "projectId": "7206"
+    },
+    "address": "KARTARPUR",
+    "pincode": [],
+    "contactNumber": "",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
+},{
+    "code": "pb.mawa",
+    "name": "MAWA",
+    "description": "MAWA",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "CITY",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+        "name": "MAWA",
+        "localName": "MAWA",
+        "districtCode": "",
+        "districtName": null,
+        "regionName": "",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "7221",
+        "ddrName": "MAWA",
+        "projectId": "7221"
+    },
+    "address": "MAWA",
+    "pincode": [],
+    "contactNumber": "",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
+},{
+    "code": "pb.haripur",
+    "name": "HARIPUR",
+    "description": "HARIPUR",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "CITY",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+        "name": "HARIPUR",
+        "localName": "HARIPUR",
+        "districtCode": "",
+        "districtName": null,
+        "regionName": "",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "7191",
+        "ddrName": "HARIPUR",
+        "projectId": "7191"
+    },
+    "address": "HARIPUR",
+    "pincode": [],
+    "contactNumber": "",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
 }
   ]
 }
