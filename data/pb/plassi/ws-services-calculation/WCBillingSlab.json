@@ -17,13 +17,13 @@
           "meterCharge": 50
         },
         {
-          "from": 1001,
+          "from": 1000,
           "to": 2000,
           "charge": 5,
           "meterCharge": 50
         },
         {
-          "from": 2001,
+          "from": 2000,
           "to": 1000000,
           "charge": 6,
           "meterCharge": 50
