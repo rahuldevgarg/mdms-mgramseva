@@ -3345,6 +3345,40 @@
     "contactNumber": "",
     "pdfHeader": "",
     "pdfContactDetails": ""
+},
+{
+    "code": "pb.ajauli",
+    "name": "AJAULI",
+    "description": "AJAULI",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "CITY",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+        "name": "AJAULI",
+        "localName": "AJAULI",
+        "districtCode": "",
+        "districtName": null,
+        "regionName": "",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "7264",
+        "ddrName": "AJAULI",
+        "projectId": "7264"
+    },
+    "address": "AJAULI",
+    "pincode": [],
+    "contactNumber": "",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
 }
   ]
 }
