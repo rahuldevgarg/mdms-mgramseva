@@ -2083,8 +2083,7 @@
       "actionid": 2005,
       "actioncode": "",
       "tenantId": "pb"
-    },
-    {
+    },{
       "rolecode": "EXPENSE_PROCESSING",
       "actionid": 2006,
       "actioncode": "",
@@ -2545,8 +2544,8 @@
       "actionid": 2021,
       "actioncode": "",
       "tenantId": "pb"
-       },
-     {
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2022,
       "actioncode": "",
@@ -2558,7 +2557,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
+	{
       "rolecode": "CITIZEN",
       "actionid": 2023,
       "actioncode": "",
@@ -2587,7 +2586,8 @@
       "actionid": 2027,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2028,
       "actioncode": "",
@@ -2639,8 +2639,7 @@
       "actionid": 2029,
       "actioncode": "",
       "tenantId": "pb"
-    },
-    {
+    },{
       "rolecode": "GP_ADMIN",
       "actionid": 2030,
       "actioncode": "",
