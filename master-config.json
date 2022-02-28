@@ -136,7 +136,7 @@
       "uniqueKeys": [
         "$.code"
       ]
-     },
+    },
     "projectmodule":{
       "masterName": "projectmodule",
       "isStateLevel": true,
@@ -144,9 +144,9 @@
       "uniqueKeys": [
         "$.code"
       ]
-     }
-    },
-   "egov-hrms": {
+    }
+  },
+  "egov-hrms": {
     "EmployeeStatus": {
       "masterName": "EmployeeStatus",
       "isStateLevel": true,
@@ -506,7 +506,7 @@
     },
     "WCBillingSlab": {
       "masterName": "WCBillingSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "WS_CHARGE": {
