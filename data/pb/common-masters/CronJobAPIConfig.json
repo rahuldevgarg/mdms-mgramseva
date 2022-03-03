@@ -4,7 +4,7 @@
   "CronJobAPIConfig": [
     {
       "jobName": "monthly",
-      "active": "false",
+      "active": "true",
       "method": "POST",
       "url": "http://ws-calculator.mgramseva:8080/ws-calculator/waterCalculator/_jobscheduler/false",
       "payload": {
@@ -64,7 +64,7 @@
     },
     {
       "jobName": "failedbulkdemand",
-      "active": "false",
+      "active": "true",
       "method": "POST",
       "url": "http://ws-calculator.mgramseva:8080/ws-calculator/waterCalculator/_jobscheduler/true",
       "payload": {
