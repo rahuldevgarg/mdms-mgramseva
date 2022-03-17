@@ -74,7 +74,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 130
+      "minimumCharge": 70
     },
     {
       "id": "6",
@@ -82,7 +82,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 130
+      "minimumCharge": 70
     },
     {
       "id": "7",
@@ -90,7 +90,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 130
+      "minimumCharge": 70
     },
        {
       "id": "8",
@@ -98,7 +98,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 130
+      "minimumCharge": 70
     }
   ]
 }
