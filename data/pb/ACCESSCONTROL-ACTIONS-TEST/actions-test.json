@@ -1056,7 +1056,7 @@
     {
       "id": 2016,
       "name": " payment search",
-       "url": "/collection-services/payments/_search",
+      "url": "/collection-services/payments/_search",
       "parentModule": "",
       "displayName": "create payment",
       "orderNumber": 2,
@@ -1112,8 +1112,8 @@
       "serviceCode": "pdf-services",
       "code": "null",
       "path": ""
-     },
-     {
+    },
+    {
       "id": 2021,
       "name": " payment search",
       "url": "/collection-services/payments/WS/_search",
@@ -1124,7 +1124,7 @@
       "serviceCode": "collection-services",
       "code": "null",
       "path": ""
-     },
+    },
     {
       "id": 2022,
       "name": "DSS Dashboard Charts",
@@ -1136,8 +1136,8 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
-     },
-    {
+    },
+	{
       "id": 2023,
       "name": " feedback create",
       "url": "/ws-services/wc/_submitfeedback",
@@ -1160,7 +1160,7 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-      },{
+    },{
       "id": 2025,
       "name": " Employee Bulk On Board ",
       "url": "/ws-services/wc/_bulkonboard",
@@ -1171,8 +1171,8 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-      },
-     {
+    },
+ {
       "id": 2026,
       "name": "Expense Update",
       "url": "/echallan-services/eChallan/v1/_expenseDashboard",
@@ -1205,8 +1205,8 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-     },
-     {
+    },
+    {
       "id": 2029,
       "name": "create payment",
       "url": "/collection-services/payments/EXPENSE/_workflow",
@@ -1217,6 +1217,28 @@
       "serviceCode": "collection-services",
       "code": "null",
       "path": ""
-    }	  
+    }, {
+      "id": 2030,
+      "name": "Expense Update",
+      "url": "/echallan-services/eChallan/v1/_chalanCollectionData",
+      "parentModule": "",
+      "displayName": "get Expense Dashboard",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "echallan-services",
+      "code": "null",
+      "path": ""
+    },{
+      "id": 2031,
+      "name": " feedback search",
+      "url": "/ws-services/wc/_revenueCollectionData",
+      "parentModule": "",
+      "displayName": "get Revenue Dashboard Data",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    }
   ]
-}	  
+}
