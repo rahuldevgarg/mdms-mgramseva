@@ -115,15 +115,15 @@
       "code": "EXPENSEOTHERS",
       "financialYear": "2022-23"
     },{
-      "fromDate": 1648771200000,
+      "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "TWOYEARS",
       "service": "WS",
-      "code": "WC2021",
+      "code": "WC2022",
       "financialYear": "2022-23"
     },
     {
-      "fromDate": 1648771200000,
+      "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "TWOYEARS",
       "service": "EXPENSE.CHLORINATION",
@@ -131,7 +131,7 @@
       "financialYear": "2022-23"
     },
     {
-      "fromDate": 1648771200000,
+      "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "TWOYEARS",
       "service": "EXPENSE.WATER_TREATMENT",
@@ -139,7 +139,7 @@
       "financialYear": "2022-23"
     },
     {
-      "fromDate": 1648771200000,
+      "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "TWOYEARS",
       "service": "EXPENSE.PIPELINE_REPAIR",
@@ -147,7 +147,7 @@
       "financialYear": "2022-23"
     },
     {
-      "fromDate": 1648771200000,
+      "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "TWOYEARS",
       "service": "EXPENSE.NEW_MACHINERY",
@@ -155,7 +155,7 @@
       "financialYear": "2022-23"
     },
     {
-      "fromDate": 1648771200000,
+      "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "TWOYEARS",
       "service": "EXPENSE.NEW_PIPELINE",
@@ -163,7 +163,7 @@
       "financialYear": "2022-23"
     },
      {
-      "fromDate": 1648771200000,
+      "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "TWOYEARS",
       "service": "EXPENSE.INCENTIVES",
