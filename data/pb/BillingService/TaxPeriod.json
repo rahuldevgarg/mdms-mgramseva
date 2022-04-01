@@ -4,78 +4,170 @@
   "TaxPeriod": [
    {
       "fromDate": 1617172199000,
-      "toDate": 1648751399000,
+      "toDate": 1648751399999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.ELECTRICITY_BILL",
       "code": "EXPENSEELECTRICITY_BILL",
       "financialYear": "2021-22"
     },{
       "fromDate": 1617172199000,
-      "toDate": 1648751399000,
+      "toDate": 1648751399999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.SALARY",
       "code": "EXPENSESALARY",
       "financialYear": "2021-22"
     },{
       "fromDate": 1617172199000,
-      "toDate": 1648751399000,
+      "toDate": 1648751399999,
       "periodCycle": "ANNUAL",
-      "service": "EXPENSE.OM",
-      "code": "EXPENSEOM",
+      "service": "EXPENSE.MACHINERY_REPAIR",
+      "code": "EXPENSEMACHINERYREPAIR",
       "financialYear": "2021-22"
     },{
       "fromDate": 1617172199000,
-      "toDate": 1648751399000,
+      "toDate": 1648751399999,
       "periodCycle": "ANNUAL",
-      "service": "EXPENSE.MISC",
-      "code": "EXPENSEMISC",
+      "service": "EXPENSE.OTHERS",
+      "code": "EXPENSEOTHERS",
       "financialYear": "2021-22"
     },{
       "fromDate": 1617215400000,
-      "toDate": 1648751399000,
+      "toDate": 1648751399999,
       "periodCycle": "TWOYEARS",
       "service": "WS",
       "code": "WC2021",
       "financialYear": "2021-22"
     },
-     {
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399999,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.CHLORINATION",
+      "code": "EXPENSECHLORINATION",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399999,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.WATER_TREATMENT",
+      "code": "EXPENSEWATERTREATMENT",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399999,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.PIPELINE_REPAIR",
+      "code": "EXPENSEPIPELINEREPAIR",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399999,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.NEW_MACHINERY",
+      "code": "EXPENSENEWMACHINERY",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399999,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.NEW_PIPELINE",
+      "code": "EXPENSENEWPIPELINE",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399999,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.INCENTIVES",
+      "code": "EXPENSEINCENTIVES",
+      "financialYear": "2021-22"
+    },
+    {
       "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.ELECTRICITY_BILL",
       "code": "EXPENSEELECTRICITY_BILL",
       "financialYear": "2022-23"
-    },
-    {
+    },{
       "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.SALARY",
       "code": "EXPENSESALARY",
       "financialYear": "2022-23"
-    },
-    {
+    },{
       "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "ANNUAL",
-      "service": "EXPENSE.OM",
-      "code": "EXPENSEOM",
+      "service": "EXPENSE.MACHINERY_REPAIR",
+      "code": "EXPENSEMACHINERYREPAIR",
       "financialYear": "2022-23"
-    },
-    {
+    },{
       "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "ANNUAL",
-      "service": "EXPENSE.MISC",
-      "code": "EXPENSEMISC",
+      "service": "EXPENSE.OTHERS",
+      "code": "EXPENSEOTHERS",
       "financialYear": "2022-23"
-    },
-    {
-      "fromDate": 1648771200000,
+    },{
+      "fromDate": 1648751400000,
       "toDate": 1680244199000,
       "periodCycle": "TWOYEARS",
       "service": "WS",
       "code": "WC2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680244199000,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.CHLORINATION",
+      "code": "EXPENSECHLORINATION",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680244199000,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.WATER_TREATMENT",
+      "code": "EXPENSEWATERTREATMENT",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680244199000,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.PIPELINE_REPAIR",
+      "code": "EXPENSEPIPELINEREPAIR",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680244199000,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.NEW_MACHINERY",
+      "code": "EXPENSENEWMACHINERY",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680244199000,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.NEW_PIPELINE",
+      "code": "EXPENSENEWPIPELINE",
+      "financialYear": "2022-23"
+    },
+     {
+      "fromDate": 1648751400000,
+      "toDate": 1680244199000,
+      "periodCycle": "TWOYEARS",
+      "service": "EXPENSE.INCENTIVES",
+      "code": "EXPENSEINCENTIVES",
       "financialYear": "2022-23"
     }
   ]
