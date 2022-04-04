@@ -32,7 +32,7 @@
       "financialYear": "2021-22"
     },{
       "fromDate": 1617215400000,
-      "toDate": 1648751399000,
+      "toDate": 1648751399999,
       "periodCycle": "TWOYEARS",
       "service": "WS",
       "code": "WC2021",
