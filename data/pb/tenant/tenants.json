@@ -3379,6 +3379,40 @@
     "contactNumber": "",
     "pdfHeader": "",
     "pdfContactDetails": ""
+},
+  {
+    "code": "pb.bhalapind",
+    "name": "BHALA PIND",
+    "description": "BHALA PIND",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "CITY",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+        "name": "BHALA PIND",
+        "localName": "BHALA PIND",
+        "districtCode": "",
+        "districtName": null,
+        "regionName": "",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "786915",
+        "ddrName": "BHALA PIND",
+        "projectId": "TW6786"
+    },
+    "address": "BHALA PIND",
+    "pincode": [],
+    "contactNumber": "",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
 }
   ]
 }
