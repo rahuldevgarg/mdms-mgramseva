@@ -31,6 +31,12 @@
       "code": "MISC",
       "active": true,
       "taxHeadCode":"20401"
+    },
+    {
+      "name": "PSPCL",
+      "code": "PSPCL",
+      "active": true,
+      "taxHeadCode":"20501"
     }
   ]
 }
