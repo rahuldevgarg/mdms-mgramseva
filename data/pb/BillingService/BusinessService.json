@@ -63,6 +63,18 @@
       "type": "Adhoc"
     },
     {
+      "businessService": "EXPENSE.PSPCL",
+      "code": "EXPENSE.PSPCL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
       "businessService": "ws-services-calculation",
       "code": "WS",
       "collectionModesNotAllowed": [

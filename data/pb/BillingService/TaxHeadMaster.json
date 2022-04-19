@@ -54,6 +54,16 @@
     },
     {
       "category": "CHARGES",
+      "service": "EXPENSE.PSPCL",
+      "name": "PSPCL",
+      "code": "20501",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
       "service": "WS",
       "name": "Water Charges",
       "code": "10101",
