@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb.bhalapind",
+    "tenantId": "pb.chakdogran",
     "moduleName": "egov-location",
     "TenantBoundary": [
         {
@@ -10,18 +10,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BHALA PIND",
-                "localname": "BHALA PIND",
+                "name": "CHAK DOGRAN",
+                "localname": "CHAK DOGRAN",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "pb.bhalapind",
+                "code": "pb.chakdogran",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BHALA PIND",
-                        "localname": "BHALA PIND",
+                        "name": "CHAK DOGRAN",
+                        "localname": "CHAK DOGRAN",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
@@ -38,18 +38,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BHALA PIND",
-                "localname": "BHALA PIND",
+                "name": "CHAK DOGRAN",
+                "localname": "CHAK DOGRAN",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "pb.bhalapind",
+                "code": "pb.chakdogran",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BHALA PIND",
-                        "localname": "BHALA PIND",
+                        "name": "CHAK DOGRAN",
+                        "localname": "CHAK DOGRAN",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",

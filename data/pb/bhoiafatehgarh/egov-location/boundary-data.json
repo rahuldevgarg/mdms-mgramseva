@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb.bhalapind",
+    "tenantId": "pb.bhoiafatehgarh",
     "moduleName": "egov-location",
     "TenantBoundary": [
         {
@@ -10,18 +10,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BHALA PIND",
-                "localname": "BHALA PIND",
+                "name": "BHOIA FATEH GARH",
+                "localname": "BHOIA FATEH GARH",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "pb.bhalapind",
+                "code": "pb.bhoiafatehgarh",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BHALA PIND",
-                        "localname": "BHALA PIND",
+                        "name": "BHOIA FATEH GARH",
+                        "localname": "BHOIA FATEH GARH",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
@@ -38,18 +38,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BHALA PIND",
-                "localname": "BHALA PIND",
+                "name": "BHOIA FATEH GARH",
+                "localname": "BHOIA FATEH GARH",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "pb.bhalapind",
+                "code": "pb.bhoiafatehgarh",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BHALA PIND",
-                        "localname": "BHALA PIND",
+                        "name": "BHOIA FATEH GARH",
+                        "localname": "BHOIA FATEH GARH",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
