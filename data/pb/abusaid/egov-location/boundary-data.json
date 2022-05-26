@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb.bhalapind",
+    "tenantId": "pb.abusaid",
     "moduleName": "egov-location",
     "TenantBoundary": [
         {
@@ -10,18 +10,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BHALA PIND",
-                "localname": "BHALA PIND",
+                "name": "ABU SAID",
+                "localname": "ABU SAID",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "pb.bhalapind",
+                "code": "pb.abusaid",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BHALA PIND",
-                        "localname": "BHALA PIND",
+                        "name": "ABU SAID",
+                        "localname": "ABU SAID",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
@@ -38,18 +38,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BHALA PIND",
-                "localname": "BHALA PIND",
+                "name": "ABU SAID",
+                "localname": "ABU SAID",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "pb.bhalapind",
+                "code": "pb.abusaid",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BHALA PIND",
-                        "localname": "BHALA PIND",
+                        "name": "ABU SAID",
+                        "localname": "ABU SAID",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",

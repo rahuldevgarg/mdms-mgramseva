@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb.bhalapind",
+    "tenantId": "pb.daburji",
     "moduleName": "egov-location",
     "TenantBoundary": [
         {
@@ -10,18 +10,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BHALA PIND",
-                "localname": "BHALA PIND",
+                "name": "DABURJI",
+                "localname": "DABURJI",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "pb.bhalapind",
+                "code": "pb.daburji",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BHALA PIND",
-                        "localname": "BHALA PIND",
+                        "name": "DABURJI",
+                        "localname": "DABURJI",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
@@ -38,18 +38,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BHALA PIND",
-                "localname": "BHALA PIND",
+                "name": "DABURJI",
+                "localname": "DABURJI",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "pb.bhalapind",
+                "code": "pb.daburji",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BHALA PIND",
-                        "localname": "BHALA PIND",
+                        "name": "DABURJI",
+                        "localname": "DABURJI",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
