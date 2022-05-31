@@ -9,7 +9,7 @@
         "DD"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": false,
+      "isAdvanceAllowed": true,
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
@@ -21,7 +21,7 @@
         "DD"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": false,
+      "isAdvanceAllowed": true,
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
@@ -33,7 +33,7 @@
         "DD"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": false,
+      "isAdvanceAllowed": true,
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
@@ -45,7 +45,7 @@
         "DD"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": false,
+      "isAdvanceAllowed": true,
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
@@ -63,7 +63,7 @@
         "ONLINE"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": false,
+      "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "billGineiURL" : "egov-searcher/bill-genie/waterbills/_get",
