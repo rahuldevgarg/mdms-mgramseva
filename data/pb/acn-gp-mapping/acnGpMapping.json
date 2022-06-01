@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb",
+  "moduleName": "acn-gp-mapping",
+  "acnGpMapping": [
+    {
+      "accountNumber": "3005754414",
+      "departmentEntityName": "BARUWAL",
+      "departmentEntityCode": "7278"
+    },
+     {
+      "accountNumber": "3005754434",
+      "departmentEntityName": "DABOUR",
+      "departmentEntityCode": "7234"
+    }
+  ]
+}
