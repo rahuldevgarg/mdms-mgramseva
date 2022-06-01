@@ -1,7 +1,7 @@
 {
   "tenantId": "pb",
-  "moduleName": "acn-gp-mapping",
-  "acnGpMapping": [
+  "moduleName": "pspcl-integration",
+  "accountNumberGpMapping": [
     {
       "accountNumber": "3005754414",
       "departmentEntityName": "BARUWAL",
