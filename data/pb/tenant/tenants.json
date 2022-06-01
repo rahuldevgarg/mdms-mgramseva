@@ -949,6 +949,41 @@
             "pdfContactDetails": ""
 },
 {
+            "code": "pb.dabri",
+            "name": "Dabri",
+            "description": "Dabri",
+            "logoId": "",
+            "imageId": null,
+            "domainUrl": "",
+            "type": "CITY",
+            "twitterUrl": null,
+            "facebookUrl": null,
+            "emailId": "",
+            "OfficeTimings": {
+                "Mon - Fri": "9.00 AM - 5.00 PM"
+            },
+            "city": {
+                "name": "Dabri",
+                "localName": "Dabri",
+                "districtCode": "",
+                "districtName": null,
+                "regionName": "",
+                "ulbGrade": "",
+                "longitude": null,
+                "latitude": null,
+                "shapeFileLocation": null,
+                "captcha": null,
+                "code": "7430",
+                "ddrName": "Dabri",
+                "projectId": "7430"
+            },
+            "address": "Dabri",
+            "pincode": [],
+            "contactNumber": "",
+            "pdfHeader": "",
+            "pdfContactDetails": ""
+},
+{
             "code": "pb.surewallower",
             "name": "Surewal Lower",
             "description": "Surewal Lower",
@@ -983,6 +1018,7 @@
             "pdfHeader": "",
             "pdfContactDetails": ""
 },
+
 {
             "code": "pb.tapprian",
             "name": "Tapprian",
