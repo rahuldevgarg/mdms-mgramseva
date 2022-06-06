@@ -30,7 +30,16 @@
       "service": "EXPENSE.MISC",
       "code": "EXPENSEMISC",
       "financialYear": "2021-22"
-    },{
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399999,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2021",
+      "financialYear": "2021-22"
+    },
+    {
       "fromDate": 1617215400000,
       "toDate": 1680244199000,
       "periodCycle": "TWOYEARS",
@@ -68,6 +77,14 @@
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.MISC",
       "code": "EXPENSEMISC",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680244199000,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2022",
       "financialYear": "2022-23"
     }
   ]
