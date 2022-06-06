@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.798414roshanwala",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "798414ROSHANWALA",
+                "localname": "798414ROSHANWALA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.798414roshanwala",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "798414ROSHANWALA",
+                        "localname": "798414ROSHANWALA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "798414ROSHANWALA",
+                "localname": "798414ROSHANWALA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.798414roshanwala",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "798414ROSHANWALA",
+                        "localname": "798414ROSHANWALA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

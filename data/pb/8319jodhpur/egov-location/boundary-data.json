@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.8319jodhpur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "8319JODHPUR",
+                "localname": "8319JODHPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.8319jodhpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "8319JODHPUR",
+                        "localname": "8319JODHPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "8319JODHPUR",
+                "localname": "8319JODHPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.8319jodhpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "8319JODHPUR",
+                        "localname": "8319JODHPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

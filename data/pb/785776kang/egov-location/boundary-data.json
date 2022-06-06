@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.785776kang",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "785776KANG",
+                "localname": "785776KANG",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.785776kang",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "785776KANG",
+                        "localname": "785776KANG",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "785776KANG",
+                "localname": "785776KANG",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.785776kang",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "785776KANG",
+                        "localname": "785776KANG",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

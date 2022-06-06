@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.797497ladian",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "797497LADIAN",
+                "localname": "797497LADIAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.797497ladian",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "797497LADIAN",
+                        "localname": "797497LADIAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "797497LADIAN",
+                "localname": "797497LADIAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.797497ladian",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "797497LADIAN",
+                        "localname": "797497LADIAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

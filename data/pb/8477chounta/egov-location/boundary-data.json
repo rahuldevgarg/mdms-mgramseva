@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.8477chounta",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "8477CHOUNTA",
+                "localname": "8477CHOUNTA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.8477chounta",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "8477CHOUNTA",
+                        "localname": "8477CHOUNTA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "8477CHOUNTA",
+                "localname": "8477CHOUNTA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.8477chounta",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "8477CHOUNTA",
+                        "localname": "8477CHOUNTA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

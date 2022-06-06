@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.tarkanwala(10744)",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "TARKANWALA(10744)",
+                "localname": "TARKANWALA(10744)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.tarkanwala(10744)",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "TARKANWALA(10744)",
+                        "localname": "TARKANWALA(10744)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "TARKANWALA(10744)",
+                "localname": "TARKANWALA(10744)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.tarkanwala(10744)",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "TARKANWALA(10744)",
+                        "localname": "TARKANWALA(10744)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

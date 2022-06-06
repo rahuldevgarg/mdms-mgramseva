@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.8659boparaikalan",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "8659BOPARAIKALAN",
+                "localname": "8659BOPARAIKALAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.8659boparaikalan",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "8659BOPARAIKALAN",
+                        "localname": "8659BOPARAIKALAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "8659BOPARAIKALAN",
+                "localname": "8659BOPARAIKALAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.8659boparaikalan",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "8659BOPARAIKALAN",
+                        "localname": "8659BOPARAIKALAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

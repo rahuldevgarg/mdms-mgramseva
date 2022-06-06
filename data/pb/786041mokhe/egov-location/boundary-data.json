@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.786041mokhe",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "786041MOKHE",
+                "localname": "786041MOKHE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.786041mokhe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "786041MOKHE",
+                        "localname": "786041MOKHE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "786041MOKHE",
+                "localname": "786041MOKHE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.786041mokhe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "786041MOKHE",
+                        "localname": "786041MOKHE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

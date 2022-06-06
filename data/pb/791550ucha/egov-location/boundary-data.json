@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.791550ucha",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "791550UCHA",
+                "localname": "791550UCHA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.791550ucha",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "791550UCHA",
+                        "localname": "791550UCHA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "791550UCHA",
+                "localname": "791550UCHA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.791550ucha",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "791550UCHA",
+                        "localname": "791550UCHA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

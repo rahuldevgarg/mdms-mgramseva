@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.790837rajpur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "790837RAJPUR",
+                "localname": "790837RAJPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.790837rajpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "790837RAJPUR",
+                        "localname": "790837RAJPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "790837RAJPUR",
+                "localname": "790837RAJPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.790837rajpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "790837RAJPUR",
+                        "localname": "790837RAJPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

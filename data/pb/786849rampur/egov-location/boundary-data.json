@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.786849rampur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "786849RAMPUR",
+                "localname": "786849RAMPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.786849rampur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "786849RAMPUR",
+                        "localname": "786849RAMPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "786849RAMPUR",
+                "localname": "786849RAMPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.786849rampur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "786849RAMPUR",
+                        "localname": "786849RAMPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

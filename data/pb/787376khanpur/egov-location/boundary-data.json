@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.787376khanpur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "787376KHANPUR",
+                "localname": "787376KHANPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.787376khanpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "787376KHANPUR",
+                        "localname": "787376KHANPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "787376KHANPUR",
+                "localname": "787376KHANPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.787376khanpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "787376KHANPUR",
+                        "localname": "787376KHANPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

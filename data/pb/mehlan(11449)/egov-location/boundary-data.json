@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.mehlan(11449)",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MEHLAN(11449)",
+                "localname": "MEHLAN(11449)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.mehlan(11449)",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MEHLAN(11449)",
+                        "localname": "MEHLAN(11449)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MEHLAN(11449)",
+                "localname": "MEHLAN(11449)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.mehlan(11449)",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MEHLAN(11449)",
+                        "localname": "MEHLAN(11449)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

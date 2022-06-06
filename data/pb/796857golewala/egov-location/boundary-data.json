@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.796857golewala",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "796857GOLEWALA",
+                "localname": "796857GOLEWALA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.796857golewala",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "796857GOLEWALA",
+                        "localname": "796857GOLEWALA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "796857GOLEWALA",
+                "localname": "796857GOLEWALA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.796857golewala",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "796857GOLEWALA",
+                        "localname": "796857GOLEWALA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

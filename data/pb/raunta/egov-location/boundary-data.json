@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.raunta",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RAUNTA",
+                "localname": "RAUNTA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.raunta",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RAUNTA",
+                        "localname": "RAUNTA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RAUNTA",
+                "localname": "RAUNTA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.raunta",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RAUNTA",
+                        "localname": "RAUNTA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

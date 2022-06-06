@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.dhoula",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DHOULA",
+                "localname": "DHOULA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dhoula",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DHOULA",
+                        "localname": "DHOULA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DHOULA",
+                "localname": "DHOULA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dhoula",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DHOULA",
+                        "localname": "DHOULA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

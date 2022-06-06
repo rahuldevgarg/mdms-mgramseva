@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.786857daulatpur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "786857DAULATPUR",
+                "localname": "786857DAULATPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.786857daulatpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "786857DAULATPUR",
+                        "localname": "786857DAULATPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "786857DAULATPUR",
+                "localname": "786857DAULATPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.786857daulatpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "786857DAULATPUR",
+                        "localname": "786857DAULATPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

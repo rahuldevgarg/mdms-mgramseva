@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.797501lakhpur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "797501LAKHPUR",
+                "localname": "797501LAKHPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.797501lakhpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "797501LAKHPUR",
+                        "localname": "797501LAKHPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "797501LAKHPUR",
+                "localname": "797501LAKHPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.797501lakhpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "797501LAKHPUR",
+                        "localname": "797501LAKHPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

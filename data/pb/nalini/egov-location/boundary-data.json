@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.nalini",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NALINI",
+                "localname": "NALINI",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.nalini",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NALINI",
+                        "localname": "NALINI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NALINI",
+                "localname": "NALINI",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.nalini",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NALINI",
+                        "localname": "NALINI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

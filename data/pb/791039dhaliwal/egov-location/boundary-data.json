@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.791039dhaliwal",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "791039DHALIWAL",
+                "localname": "791039DHALIWAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.791039dhaliwal",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "791039DHALIWAL",
+                        "localname": "791039DHALIWAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "791039DHALIWAL",
+                "localname": "791039DHALIWAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.791039dhaliwal",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "791039DHALIWAL",
+                        "localname": "791039DHALIWAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

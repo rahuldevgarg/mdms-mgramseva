@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.sudhar8676",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SUDHAR8676",
+                "localname": "SUDHAR8676",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sudhar8676",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SUDHAR8676",
+                        "localname": "SUDHAR8676",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SUDHAR8676",
+                "localname": "SUDHAR8676",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sudhar8676",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SUDHAR8676",
+                        "localname": "SUDHAR8676",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

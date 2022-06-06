@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.8375bains",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "8375BAINS",
+                "localname": "8375BAINS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.8375bains",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "8375BAINS",
+                        "localname": "8375BAINS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "8375BAINS",
+                "localname": "8375BAINS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.8375bains",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "8375BAINS",
+                        "localname": "8375BAINS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

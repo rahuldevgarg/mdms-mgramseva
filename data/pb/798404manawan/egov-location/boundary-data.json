@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.798404manawan",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "798404MANAWAN",
+                "localname": "798404MANAWAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.798404manawan",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "798404MANAWAN",
+                        "localname": "798404MANAWAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "798404MANAWAN",
+                "localname": "798404MANAWAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.798404manawan",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "798404MANAWAN",
+                        "localname": "798404MANAWAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

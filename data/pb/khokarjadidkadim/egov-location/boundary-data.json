@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.khokarjadidkadim",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KHOKARJADIDKADIM",
+                "localname": "KHOKARJADIDKADIM",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.khokarjadidkadim",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "KHOKARJADIDKADIM",
+                        "localname": "KHOKARJADIDKADIM",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KHOKARJADIDKADIM",
+                "localname": "KHOKARJADIDKADIM",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.khokarjadidkadim",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "KHOKARJADIDKADIM",
+                        "localname": "KHOKARJADIDKADIM",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

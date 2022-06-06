@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.9065begowal",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "9065BEGOWAL",
+                "localname": "9065BEGOWAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.9065begowal",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "9065BEGOWAL",
+                        "localname": "9065BEGOWAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "9065BEGOWAL",
+                "localname": "9065BEGOWAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.9065begowal",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "9065BEGOWAL",
+                        "localname": "9065BEGOWAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

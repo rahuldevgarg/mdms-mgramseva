@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.787684cheemakalan",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "787684CHEEMAKALAN",
+                "localname": "787684CHEEMAKALAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.787684cheemakalan",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "787684CHEEMAKALAN",
+                        "localname": "787684CHEEMAKALAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "787684CHEEMAKALAN",
+                "localname": "787684CHEEMAKALAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.787684cheemakalan",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "787684CHEEMAKALAN",
+                        "localname": "787684CHEEMAKALAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

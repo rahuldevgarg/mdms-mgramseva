@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.lelewala(10727)",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LELEWALA(10727)",
+                "localname": "LELEWALA(10727)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.lelewala(10727)",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "LELEWALA(10727)",
+                        "localname": "LELEWALA(10727)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LELEWALA(10727)",
+                "localname": "LELEWALA(10727)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.lelewala(10727)",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "LELEWALA(10727)",
+                        "localname": "LELEWALA(10727)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

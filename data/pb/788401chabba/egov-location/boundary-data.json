@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.788401chabba",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "788401CHABBA",
+                "localname": "788401CHABBA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.788401chabba",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "788401CHABBA",
+                        "localname": "788401CHABBA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "788401CHABBA",
+                "localname": "788401CHABBA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.788401chabba",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "788401CHABBA",
+                        "localname": "788401CHABBA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

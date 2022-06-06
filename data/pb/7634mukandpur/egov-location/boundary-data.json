@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.7634mukandpur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "7634MUKANDPUR",
+                "localname": "7634MUKANDPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.7634mukandpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "7634MUKANDPUR",
+                        "localname": "7634MUKANDPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "7634MUKANDPUR",
+                "localname": "7634MUKANDPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.7634mukandpur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "7634MUKANDPUR",
+                        "localname": "7634MUKANDPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

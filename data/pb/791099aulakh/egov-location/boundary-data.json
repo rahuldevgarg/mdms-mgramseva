@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.791099aulakh",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "791099AULAKH",
+                "localname": "791099AULAKH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.791099aulakh",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "791099AULAKH",
+                        "localname": "791099AULAKH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "791099AULAKH",
+                "localname": "791099AULAKH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.791099aulakh",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "791099AULAKH",
+                        "localname": "791099AULAKH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
