@@ -86,6 +86,14 @@
       "service": "WS",
       "code": "WC2022",
       "financialYear": "2022-23"
+    },
+     {
+      "fromDate": 1648751400000,
+      "toDate": 1680244199000,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WS_ADVANCE_CARRYFORWARD",
+      "financialYear": "2022-23"
     }
   ]
 }
