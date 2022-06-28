@@ -1241,7 +1241,7 @@
       "path": ""
     },{
       "id": 2032,
-      "name": "Demand Search",
+      "name": "Demand History",
       "url": "/billing-service/demand/_history",
       "parentModule": "",
       "displayName": "Demand History",
