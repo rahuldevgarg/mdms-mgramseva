@@ -115,7 +115,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
-      "isRequired": false,
+      "isRequired": true,
       "IsBillamend": true
     },
     {
