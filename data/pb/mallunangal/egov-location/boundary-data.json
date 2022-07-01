@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.mallunangal",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MALLUNANGAL",
+                "localname": "MALLUNANGAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.mallunangal",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MALLUNANGAL",
+                        "localname": "MALLUNANGAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MALLUNANGAL",
+                "localname": "MALLUNANGAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.mallunangal",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MALLUNANGAL",
+                        "localname": "MALLUNANGAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
