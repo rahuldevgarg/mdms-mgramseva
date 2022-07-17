@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.aligarh",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ALIGARH",
+                "localname": "ALIGARH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.aligarh",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "ALIGARH",
+                        "localname": "ALIGARH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ALIGARH",
+                "localname": "ALIGARH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.aligarh",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "ALIGARH",
+                        "localname": "ALIGARH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

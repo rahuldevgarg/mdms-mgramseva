@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.uttal",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "UTTAL",
+                "localname": "UTTAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.uttal",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "UTTAL",
+                        "localname": "UTTAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "UTTAL",
+                "localname": "UTTAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.uttal",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "UTTAL",
+                        "localname": "UTTAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
