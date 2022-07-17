@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.pindiparolian",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PINDIPAROLIAN",
+                "localname": "PINDIPAROLIAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.pindiparolian",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "PINDIPAROLIAN",
+                        "localname": "PINDIPAROLIAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PINDIPAROLIAN",
+                "localname": "PINDIPAROLIAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.pindiparolian",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "PINDIPAROLIAN",
+                        "localname": "PINDIPAROLIAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.khatra",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KHATRA",
+                "localname": "KHATRA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.khatra",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "KHATRA",
+                        "localname": "KHATRA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KHATRA",
+                "localname": "KHATRA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.khatra",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "KHATRA",
+                        "localname": "KHATRA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
