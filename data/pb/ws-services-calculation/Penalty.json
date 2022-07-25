@@ -5,8 +5,8 @@
     {
       "type": "FIXED",
       "subType": "outstanding",
-      "rate": 10,
-      "amount":null,
+      "rate": null,
+      "amount":15,
       "minAmount": null,
       "applicableAfterDays": 10,
       "flatAmount": null,
