@@ -1250,6 +1250,18 @@
       "serviceCode": "billing-services",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": 2033,
+      "name": "Demand Penalty Details",
+      "url": "/ws-calculator/waterCalculator/_getPenaltyDetails",
+      "parentModule": "",
+      "displayName": "Demand Penalty Details",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
