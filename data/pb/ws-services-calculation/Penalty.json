@@ -6,7 +6,7 @@
       "type": "FLAT",
       "subType": "outstanding",
       "rate": null,
-      "amount":10,
+      "amount":5.5,
       "minAmount": null,
       "applicableAfterDays": 10,
       "flatAmount": null,
