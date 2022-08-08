@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.n.m.singh",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "N.M.SINGH",
+                "localname": "N.M.SINGH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.n.m.singh",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "N.M.SINGH",
+                        "localname": "N.M.SINGH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "N.M.SINGH",
+                "localname": "N.M.SINGH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.n.m.singh",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "N.M.SINGH",
+                        "localname": "N.M.SINGH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

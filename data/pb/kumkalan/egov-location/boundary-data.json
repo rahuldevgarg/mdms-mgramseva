@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.kumkalan",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KUMKALAN",
+                "localname": "KUMKALAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.kumkalan",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "KUMKALAN",
+                        "localname": "KUMKALAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KUMKALAN",
+                "localname": "KUMKALAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.kumkalan",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "KUMKALAN",
+                        "localname": "KUMKALAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
