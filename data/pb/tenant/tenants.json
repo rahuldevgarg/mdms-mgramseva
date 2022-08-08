@@ -3104,8 +3104,8 @@
     "pdfContactDetails": ""
 },{
     "code": "pb.sainimajra",
-    "name": "SAINI MAJRA",
-    "description": "SAINI MAJRA",
+    "name": "SAINIMAJRA",
+    "description": "SAINIMAJRA",
     "logoId": "",
     "imageId": null,
     "domainUrl": "",
@@ -3117,8 +3117,8 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-        "name": "SAINI MAJRA",
-        "localName": "SAINI MAJRA",
+        "name": "SAINIMAJRA",
+        "localName": "SAINIMAJRA",
         "districtCode": "",
         "districtName": null,
         "regionName": "",
@@ -3128,10 +3128,10 @@
         "captcha": null,
         "shapeFileLocation": null,
         "code": "7244",
-        "ddrName": "SAINI MAJRA",
+        "ddrName": "SAINIMAJRA",
         "projectId": "7244"
     },
-    "address": "SAINI MAJRA",
+    "address": "SAINIMAJRA",
     "pincode": [],
     "contactNumber": "",
     "pdfHeader": "",
