@@ -1,62 +1,62 @@
 {
-  "tenantId": "pb.bahmanmajra",
-  "moduleName": "egov-location",
-  "TenantBoundary": [
-    {
-      "hierarchyType": {
-        "code": "REVENUE",
-        "name": "REVENUE"
-      },
-      "boundary": {
-        "id": 1,
-        "boundaryNum": 1,
-        "name": "BAHMAN MAJRA",
-        "localname": "BRAHAM MAJRA",
-        "longitude": null,
-        "latitude": null,
-        "label": "City",
-        "code": "pb.brahammajra",
-        "children":[
-          {
-            "id": 1,
-            "boundaryNum": 1,
-            "name": "BAHMAN MAJRA",
-            "localname": "BAHMAN MAJRA",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "WARD1"
-          }
-        ]
-      }
-    },
-    {
-      "hierarchyType": {
-        "code": "ADMIN",
-        "name": "ADMIN"
-      },
-      "boundary": {
-        "id": 1,
-        "boundaryNum": 1,
-        "name": "BAHMAN MAJRA",
-        "localname": "BAHMAN MAJRA",
-        "longitude": null,
-        "latitude": null,
-        "label": "City",
-        "code": "pb.bahmanmajra",
-        "children":[
-          {
-            "id": 1,
-            "boundaryNum": 1,
-            "name": "BAHMAN MAJRA",
-            "localname": "BAHMAN MAJRA",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "WARD1"
-          }
-        ]
-      }
-    }
-  ]
+    "tenantId": "pb.bahmanmajra",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BAHMANMAJRA",
+                "localname": "BAHMANMAJRA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bahmanmajra",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BAHMANMAJRA",
+                        "localname": "BAHMANMAJRA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BAHMANMAJRA",
+                "localname": "BAHMANMAJRA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bahmanmajra",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BAHMANMAJRA",
+                        "localname": "BAHMANMAJRA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
 }
