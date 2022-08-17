@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.andlu",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ANDLU",
+                "localname": "ANDLU",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.andlu",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "ANDLU",
+                        "localname": "ANDLU",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ANDLU",
+                "localname": "ANDLU",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.andlu",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "ANDLU",
+                        "localname": "ANDLU",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
