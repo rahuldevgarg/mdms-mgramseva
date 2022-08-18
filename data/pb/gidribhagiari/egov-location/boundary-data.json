@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.gidribhagiari",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "GIDRIBHAGIARI",
+                "localname": "GIDRIBHAGIARI",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.gidribhagiari",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "GIDRIBHAGIARI",
+                        "localname": "GIDRIBHAGIARI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "GIDRIBHAGIARI",
+                "localname": "GIDRIBHAGIARI",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.gidribhagiari",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "GIDRIBHAGIARI",
+                        "localname": "GIDRIBHAGIARI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

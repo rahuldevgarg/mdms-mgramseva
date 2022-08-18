@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.dholan",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DHOLAN",
+                "localname": "DHOLAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dholan",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DHOLAN",
+                        "localname": "DHOLAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DHOLAN",
+                "localname": "DHOLAN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dholan",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DHOLAN",
+                        "localname": "DHOLAN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
