@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.mustapur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MUSTAPUR",
+                "localname": "MUSTAPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.mustapur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MUSTAPUR",
+                        "localname": "MUSTAPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MUSTAPUR",
+                "localname": "MUSTAPUR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.mustapur",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MUSTAPUR",
+                        "localname": "MUSTAPUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

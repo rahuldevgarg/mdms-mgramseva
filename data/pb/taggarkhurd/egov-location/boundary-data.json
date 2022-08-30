@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.taggarkhurd",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "TAGGARKHURD",
+                "localname": "TAGGARKHURD",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.taggarkhurd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "TAGGARKHURD",
+                        "localname": "TAGGARKHURD",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "TAGGARKHURD",
+                "localname": "TAGGARKHURD",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.taggarkhurd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "TAGGARKHURD",
+                        "localname": "TAGGARKHURD",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.paniar",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PANIAR",
+                "localname": "PANIAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.paniar",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "PANIAR",
+                        "localname": "PANIAR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PANIAR",
+                "localname": "PANIAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.paniar",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "PANIAR",
+                        "localname": "PANIAR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
