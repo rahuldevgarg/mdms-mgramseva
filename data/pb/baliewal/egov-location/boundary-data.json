@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.baliewal",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BALIEWAL",
+                "localname": "BALIEWAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.baliewal",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BALIEWAL",
+                        "localname": "BALIEWAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BALIEWAL",
+                "localname": "BALIEWAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.baliewal",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BALIEWAL",
+                        "localname": "BALIEWAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

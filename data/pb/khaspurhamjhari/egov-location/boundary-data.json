@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.khaspurhamjhari",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KHASPURHAMJHARI",
+                "localname": "KHASPURHAMJHARI",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.khaspurhamjhari",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "KHASPURHAMJHARI",
+                        "localname": "KHASPURHAMJHARI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KHASPURHAMJHARI",
+                "localname": "KHASPURHAMJHARI",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.khaspurhamjhari",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "KHASPURHAMJHARI",
+                        "localname": "KHASPURHAMJHARI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
