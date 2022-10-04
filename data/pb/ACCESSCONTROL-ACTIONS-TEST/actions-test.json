@@ -1266,6 +1266,18 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2034,
+      "name": "Penalty Calculate",
+      "url": "/ws-calculator/waterCalculator/_getPenaltyDetails",
+      "parentModule": "",
+      "displayName": "Penalty Calculate",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
