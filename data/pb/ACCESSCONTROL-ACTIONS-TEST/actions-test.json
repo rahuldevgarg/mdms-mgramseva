@@ -1239,6 +1239,18 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2032,
+      "name": "Penalty Calculate",
+      "url": "/ws-calculator/waterCalculator/_getPenaltyDetails",
+      "parentModule": "",
+      "displayName": "Penalty Calculate",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
