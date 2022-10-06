@@ -179,7 +179,7 @@
       "isDebit": true,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false,
+      "isRequired": true,
       "IsBillamend": false
     },
     {
