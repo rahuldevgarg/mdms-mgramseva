@@ -62,7 +62,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": false,
+      "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "billGineiURL" : "egov-searcher/bill-genie/waterbills/_get",
