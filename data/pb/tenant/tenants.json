@@ -91377,6 +91377,41 @@
             "contactNumber": "",
             "pdfHeader": "",
             "pdfContactDetails": ""
+},
+{
+    "code": "pb.gandhonkalan",
+    "name": "GANDHONKALAN",
+    "description": "GANDHONKALAN",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "",
+    "type": "CITY",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+    },
+    "city": {
+        "name": "GANDHONKALAN",
+        "localName": "GANDHONKALAN",
+        "districtCode": "",
+        "districtName": null,
+        "regionName": "",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "6939",
+        "ddrName": "GANDHONKALAN",
+        "projectId": "6939"
+    },
+    "address": "GANDHONKALAN",
+    "pincode": [],
+    "contactNumber": "",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
 }
   ]
 }
