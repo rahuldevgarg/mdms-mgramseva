@@ -1251,6 +1251,18 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2033,
+      "name": "Demand Search",
+      "url": "/billing-service/demand/_history",
+      "parentModule": "",
+      "displayName": "Demand History",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "billing-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
