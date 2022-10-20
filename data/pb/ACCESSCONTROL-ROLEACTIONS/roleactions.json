@@ -2639,7 +2639,8 @@
       "actionid": 2029,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2030,
       "actioncode": "",
@@ -2654,6 +2655,30 @@
     {
       "rolecode": "GP_ADMIN",
       "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2033,
       "actioncode": "",
       "tenantId": "pb"
     }
