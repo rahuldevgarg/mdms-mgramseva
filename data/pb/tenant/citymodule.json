@@ -2,5 +2,16 @@
   "tenantId": "pb",
   "moduleName": "tenant",
   "citymodule": [
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 6,
+      "tenants": [
+        {
+          "code": "pb"
+        }
+      ]
+    }
   ]
 }
