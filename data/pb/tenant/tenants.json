@@ -8449,40 +8449,6 @@
     "pdfHeader": "",
     "pdfContactDetails": ""
 },{
-    "code": "pb.saidpur",
-    "name": "SAIDPUR",
-    "description": "SAIDPUR",
-    "logoId": "",
-    "imageId": null,
-    "domainUrl": "",
-    "type": "CITY",
-    "twitterUrl": null,
-    "facebookUrl": null,
-    "emailId": "",
-    "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 5.00 PM"
-    },
-    "city": {
-        "name": "SAIDPUR",
-        "localName": "SAIDPUR",
-        "districtCode": "",
-        "districtName": null,
-        "regionName": "",
-        "ulbGrade": "",
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "7807",
-        "ddrName": "SAIDPUR",
-        "projectId": "7807"
-    },
-    "address": "SAIDPUR",
-    "pincode": [],
-    "contactNumber": "",
-    "pdfHeader": "",
-    "pdfContactDetails": ""
-},{
     "code": "pb.sainchan",
     "name": "SAINCHAN",
     "description": "SAINCHAN",
@@ -50028,40 +49994,6 @@
         "projectId": "791436"
     },
     "address": "SAIDOWAL",
-    "pincode": [],
-    "contactNumber": "",
-    "pdfHeader": "",
-    "pdfContactDetails": ""
-},{
-    "code": "pb.saidpur",
-    "name": "SAIDPUR",
-    "description": "SAIDPUR",
-    "logoId": "",
-    "imageId": null,
-    "domainUrl": "",
-    "type": "CITY",
-    "twitterUrl": null,
-    "facebookUrl": null,
-    "emailId": "",
-    "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 5.00 PM"
-    },
-    "city": {
-        "name": "SAIDPUR",
-        "localName": "SAIDPUR",
-        "districtCode": "",
-        "districtName": null,
-        "regionName": "",
-        "ulbGrade": "",
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "787185",
-        "ddrName": "SAIDPUR",
-        "projectId": "787185"
-    },
-    "address": "SAIDPUR",
     "pincode": [],
     "contactNumber": "",
     "pdfHeader": "",
