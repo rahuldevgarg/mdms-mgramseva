@@ -3,9 +3,10 @@
   "moduleName": "ws-services-calculation",
   "Penalty": [
     {
-      "type": "FIXED",
-      "subType": "outstanding",
-      "rate": 10,
+      "type": "FLAT",
+      "subType": "currentMonth",
+      "rate": null,
+      "amount": 15,
       "minAmount": null,
       "applicableAfterDays": 10,
       "flatAmount": null,
