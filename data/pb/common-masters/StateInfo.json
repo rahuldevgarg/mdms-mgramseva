@@ -19,15 +19,21 @@
       "languages": [
         {
            "label": "ਪੰਜਾਬੀ",
-           "value": "pn_IN"
+           "value": "pn_IN",
+          "regEx": "[\u0A00-\u0A7F+A-Za-z]",
+          "enableRegEx" : false
         },
         {
           "label": "हिंदी",
-          "value": "hi_IN"
+          "value": "hi_IN",
+          "regEx": "[\u0900-\u097F+A-Za-z]",
+          "enableRegEx" : true
         },
         {
           "label": "ENGLISH",
-          "value": "en_IN"
+          "value": "en_IN",
+          "regEx": "[A-Za-z]",
+          "enableRegEx" : false
         }
       ],
       "localizationModules": [
