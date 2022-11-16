@@ -26,7 +26,7 @@
         {
           "label": "हिंदी",
           "value": "hi_IN",
-          "regEx": "[\u0900-\u097F+A-Za-z]",
+          "regEx": "^[\\u0900-\\u097F+A-Za-z]",
           "enableRegEx" : true
         },
         {
