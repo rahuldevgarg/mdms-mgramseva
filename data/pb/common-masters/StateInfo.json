@@ -27,7 +27,7 @@
           "label": "हिंदी",
           "value": "hi_IN",
           "regEx": "^[\\u0900-\\u097F+\\s]",
-          "enableRegEx" : false
+          "enableRegEx" : true
         },
         {
           "label": "ENGLISH",
