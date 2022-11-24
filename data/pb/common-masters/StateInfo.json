@@ -18,12 +18,6 @@
       },
       "languages": [
         {
-           "label": "ਪੰਜਾਬੀ",
-           "value": "pn_IN",
-          "regEx": "^[\\u0A00-\\u0A7F+A-Za-z+\\s]",
-          "enableRegEx" : false
-        },
-        {
           "label": "हिंदी",
           "value": "hi_IN",
           "regEx": "^[\\u0900-\\u097F+\\s]",
