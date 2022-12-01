@@ -16,6 +16,7 @@
         "citizen": "/user/register",
         "employee": "/user/login"
       },
+      "latest_app_version": "1.2.0"
       "languages": [
         {
           "label": "हिंदी",
