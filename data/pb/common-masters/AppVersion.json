@@ -1,0 +1,11 @@
+{
+  "tenantId": "pb",
+  "moduleName": "common-masters",
+  "AppVersion": [
+    {
+      "latestAppVersion": "1.2.6",
+      "packageName": "com.dwss.mgramseva"
+    }
+ ]
+  
+}
