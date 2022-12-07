@@ -1,0 +1,56 @@
+{
+  "tenantId": "pb",
+  "moduleName": "pspcl-integration",
+  "accountNumberGpMapping": [
+    {
+      "accountNumber": "3005754414",
+      "departmentEntityName": "BARUWAL",
+      "departmentEntityCode": "7278"
+    },
+    {
+      "accountNumber": "3005754434",
+      "departmentEntityName": "DABOUR",
+      "departmentEntityCode": "7234"
+    },
+    {
+      "accountNumber": "3007440865",
+      "departmentEntityName": "Testing1",
+      "departmentEntityCode": "0001"
+    },
+    {
+      "accountNumber": "3007440901",
+      "departmentEntityName": "Testing2",
+      "departmentEntityCode": "0002"
+    },
+    {
+      "accountNumber": "3007440902",
+      "departmentEntityName": "Testing3",
+      "departmentEntityCode": "0003"
+    },
+    {
+      "accountNumber": "3007440903",
+      "departmentEntityName": "Testing4",
+      "departmentEntityCode": "0004"
+    },
+    {
+      "accountNumber": "3007440908",
+      "departmentEntityName": "Testing5",
+      "departmentEntityCode": "0005"
+    },
+    {
+      "accountNumber": "3007440909",
+      "departmentEntityName": "Testing6",
+      "departmentEntityCode": "0006"
+    },
+    {
+      "accountNumber": "3007440910",
+      "departmentEntityName": "Testing7",
+      "departmentEntityCode": "0007"
+    },
+    {
+      "accountNumber": "3007441056",
+      "departmentEntityName": "Testing8",
+      "departmentEntityCode": "0008"
+    }
+  ]
+}
