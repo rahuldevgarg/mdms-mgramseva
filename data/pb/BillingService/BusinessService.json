@@ -59,8 +59,7 @@
         "CARD",
         "OFFLINE_NEFT",
         "OFFLINE_RTGS",
-        "POSTAL_ORDER",
-        "ONLINE"
+        "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
       "isAdvanceAllowed": true,
