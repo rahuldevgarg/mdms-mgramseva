@@ -19,6 +19,12 @@
       "latest_app_version": "1.2.4",
       "languages": [
         {
+           "label": "ਪੰਜਾਬੀ",
+           "value": "pn_IN",
+           "regEx": "^[A-Za-z]",
+           "enableRegEx" : false
+        },
+        {
           "label": "हिंदी",
           "value": "hi_IN",
           "regEx": "^[\\u0900-\\u097F+\\s]",
