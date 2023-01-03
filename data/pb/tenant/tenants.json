@@ -2792,41 +2792,6 @@
             "pdfContactDetails": ""
         },
         {
-            "code": "pb.singhpura",
-            "name": "SINGHPURA",
-            "description": "SINGHPURA",
-            "logoId": "",
-            "imageId": null,
-            "domainUrl": "",
-            "type": "CITY",
-            "twitterUrl": null,
-            "facebookUrl": null,
-            "emailId": "",
-            "OfficeTimings": {
-                "Mon - Fri": "9.00 AM - 5.00 PM"
-            },
-            "city": {
-                "name": "SINGHPURA",
-                "localName": "SINGHPURA",
-                "districtCode": "",
-                "districtName": null,
-                "regionName": "",
-                "ulbGrade": "",
-                "longitude": null,
-                "latitude": null,
-                "shapeFileLocation": null,
-                "captcha": null,
-                "code": "15802",
-                "ddrName": "SINGHPURA",
-                "projectId": "15802"
-            },
-            "address": "SINGHPURA",
-            "pincode": [],
-            "contactNumber": "",
-            "pdfHeader": "",
-            "pdfContactDetails": ""
-        },
-        {
             "code": "pb.sukhsal",
             "name": "Sukhsal",
             "description": "Sukhsal",
