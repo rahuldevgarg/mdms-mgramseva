@@ -14,7 +14,7 @@
           "from": 0,
           "to": 1000000,
           "charge": 2,
-          "meterCharge": 250
+          "meterCharge": 50
         }
       ]
     },
@@ -82,7 +82,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 50
+      "minimumCharge": 250
     },
     {
       "id": "7",
