@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.bathwalasukhabihgghe",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bathwala Sukha",
+                "localname": "Bathwala Sukha",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bathwalasukhabihgghe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bathwala Sukha",
+                        "localname": "Bathwala Sukha",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bathwala Sukha",
+                "localname": "Bathwala Sukha",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bathwalasukhabihgghe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bathwala Sukha",
+                        "localname": "Bathwala Sukha",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

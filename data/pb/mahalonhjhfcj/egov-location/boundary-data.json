@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.mahalonhjhfcj",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Mahalon",
+                "localname": "Mahalon",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.mahalonhjhfcj",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Mahalon",
+                        "localname": "Mahalon",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Mahalon",
+                "localname": "Mahalon",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.mahalonhjhfcj",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Mahalon",
+                        "localname": "Mahalon",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

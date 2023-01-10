@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.bhainigahihijgbc",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhaini Gahi",
+                "localname": "Bhaini Gahi",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhainigahihijgbc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhaini Gahi",
+                        "localname": "Bhaini Gahi",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhaini Gahi",
+                "localname": "Bhaini Gahi",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhainigahihijgbc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhaini Gahi",
+                        "localname": "Bhaini Gahi",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

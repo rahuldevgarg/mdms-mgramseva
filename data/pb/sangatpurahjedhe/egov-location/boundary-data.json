@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.sangatpurahjedhe",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sangatpura",
+                "localname": "Sangatpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sangatpurahjedhe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sangatpura",
+                        "localname": "Sangatpura",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sangatpura",
+                "localname": "Sangatpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sangatpurahjedhe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sangatpura",
+                        "localname": "Sangatpura",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

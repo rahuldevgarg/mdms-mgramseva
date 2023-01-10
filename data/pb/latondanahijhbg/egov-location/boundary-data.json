@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.latondanahijhbg",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Laton Dana ",
+                "localname": "Laton Dana ",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.latondanahijhbg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Laton Dana ",
+                        "localname": "Laton Dana ",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Laton Dana ",
+                "localname": "Laton Dana ",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.latondanahijhbg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Laton Dana ",
+                        "localname": "Laton Dana ",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.newamarjeetcolonybijacfi",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "New Amarjeet Colony",
+                "localname": "New Amarjeet Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.newamarjeetcolonybijacfi",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "New Amarjeet Colony",
+                        "localname": "New Amarjeet Colony",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "New Amarjeet Colony",
+                "localname": "New Amarjeet Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.newamarjeetcolonybijacfi",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "New Amarjeet Colony",
+                        "localname": "New Amarjeet Colony",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.chhotaqadrabadbhaegeb",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Chhota Qadra Bad",
+                "localname": "Chhota Qadra Bad",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.chhotaqadrabadbhaegeb",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Chhota Qadra Bad",
+                        "localname": "Chhota Qadra Bad",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Chhota Qadra Bad",
+                "localname": "Chhota Qadra Bad",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.chhotaqadrabadbhaegeb",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Chhota Qadra Bad",
+                        "localname": "Chhota Qadra Bad",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

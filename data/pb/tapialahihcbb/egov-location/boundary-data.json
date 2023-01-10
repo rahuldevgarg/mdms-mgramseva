@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.tapialahihcbb",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Tapiala",
+                "localname": "Tapiala",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.tapialahihcbb",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Tapiala",
+                        "localname": "Tapiala",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Tapiala",
+                "localname": "Tapiala",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.tapialahihcbb",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Tapiala",
+                        "localname": "Tapiala",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

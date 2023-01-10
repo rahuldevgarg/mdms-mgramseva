@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.guruteghbahadarcolonybhcegid",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Guru Tegh Bahadar Colony",
+                "localname": "Guru Tegh Bahadar Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.guruteghbahadarcolonybhcegid",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Guru Tegh Bahadar Colony",
+                        "localname": "Guru Tegh Bahadar Colony",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Guru Tegh Bahadar Colony",
+                "localname": "Guru Tegh Bahadar Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.guruteghbahadarcolonybhcegid",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Guru Tegh Bahadar Colony",
+                        "localname": "Guru Tegh Bahadar Colony",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

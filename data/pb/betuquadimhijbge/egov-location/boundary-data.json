@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.betuquadimhijbge",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Betu Quadim",
+                "localname": "Betu Quadim",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.betuquadimhijbge",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Betu Quadim",
+                        "localname": "Betu Quadim",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Betu Quadim",
+                "localname": "Betu Quadim",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.betuquadimhijbge",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Betu Quadim",
+                        "localname": "Betu Quadim",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

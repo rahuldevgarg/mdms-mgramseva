@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.dashmeshnagarbifdidh",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dashmesh Nagar",
+                "localname": "Dashmesh Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dashmeshnagarbifdidh",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Dashmesh Nagar",
+                        "localname": "Dashmesh Nagar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dashmesh Nagar",
+                "localname": "Dashmesh Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dashmeshnagarbifdidh",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Dashmesh Nagar",
+                        "localname": "Dashmesh Nagar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

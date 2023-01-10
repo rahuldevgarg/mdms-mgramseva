@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.bhanrahjfdja",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhanra",
+                "localname": "Bhanra",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhanrahjfdja",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhanra",
+                        "localname": "Bhanra",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhanra",
+                "localname": "Bhanra",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhanrahjfdja",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhanra",
+                        "localname": "Bhanra",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.sadakpurhjhhhe",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sadakpur",
+                "localname": "Sadakpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sadakpurhjhhhe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sadakpur",
+                        "localname": "Sadakpur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sadakpur",
+                "localname": "Sadakpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sadakpurhjhhhe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sadakpur",
+                        "localname": "Sadakpur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

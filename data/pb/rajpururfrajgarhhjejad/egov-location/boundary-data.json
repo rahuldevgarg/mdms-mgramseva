@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.rajpururfrajgarhhjejad",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Rajpur urf Rajgarh",
+                "localname": "Rajpur urf Rajgarh",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.rajpururfrajgarhhjejad",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Rajpur urf Rajgarh",
+                        "localname": "Rajpur urf Rajgarh",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Rajpur urf Rajgarh",
+                "localname": "Rajpur urf Rajgarh",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.rajpururfrajgarhhjejad",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Rajpur urf Rajgarh",
+                        "localname": "Rajpur urf Rajgarh",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

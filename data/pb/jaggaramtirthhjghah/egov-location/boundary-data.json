@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.jaggaramtirthhjghah",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "JAGGA RAM TIRTH",
+                "localname": "JAGGA RAM TIRTH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jaggaramtirthhjghah",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "JAGGA RAM TIRTH",
+                        "localname": "JAGGA RAM TIRTH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "JAGGA RAM TIRTH",
+                "localname": "JAGGA RAM TIRTH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jaggaramtirthhjghah",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "JAGGA RAM TIRTH",
+                        "localname": "JAGGA RAM TIRTH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

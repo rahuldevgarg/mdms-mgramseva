@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.jhangisaroopdassbhecdgg",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Jhangi Saroop Dass",
+                "localname": "Jhangi Saroop Dass",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jhangisaroopdassbhecdgg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jhangi Saroop Dass",
+                        "localname": "Jhangi Saroop Dass",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Jhangi Saroop Dass",
+                "localname": "Jhangi Saroop Dass",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jhangisaroopdassbhecdgg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jhangi Saroop Dass",
+                        "localname": "Jhangi Saroop Dass",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.chotibarinagalhjecci",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Choti Bari Nagal",
+                "localname": "Choti Bari Nagal",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.chotibarinagalhjecci",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Choti Bari Nagal",
+                        "localname": "Choti Bari Nagal",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Choti Bari Nagal",
+                "localname": "Choti Bari Nagal",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.chotibarinagalhjecci",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Choti Bari Nagal",
+                        "localname": "Choti Bari Nagal",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

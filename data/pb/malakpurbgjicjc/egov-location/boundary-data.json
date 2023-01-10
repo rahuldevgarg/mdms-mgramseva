@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.malakpurbgjicjc",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Malakpur (HB-193)(6381)",
+                "localname": "Malakpur (HB-193)(6381)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.malakpurbgjicjc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Malakpur (HB-193)(6381)",
+                        "localname": "Malakpur (HB-193)(6381)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Malakpur (HB-193)(6381)",
+                "localname": "Malakpur (HB-193)(6381)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.malakpurbgjicjc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Malakpur (HB-193)(6381)",
+                        "localname": "Malakpur (HB-193)(6381)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.chandnawanhjibai",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Chand Nawan",
+                "localname": "Chand Nawan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.chandnawanhjibai",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Chand Nawan",
+                        "localname": "Chand Nawan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Chand Nawan",
+                "localname": "Chand Nawan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.chandnawanhjibai",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Chand Nawan",
+                        "localname": "Chand Nawan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

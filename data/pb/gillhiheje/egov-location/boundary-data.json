@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.gillhiheje",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Gill",
+                "localname": "Gill",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.gillhiheje",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Gill",
+                        "localname": "Gill",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Gill",
+                "localname": "Gill",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.gillhiheje",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Gill",
+                        "localname": "Gill",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
