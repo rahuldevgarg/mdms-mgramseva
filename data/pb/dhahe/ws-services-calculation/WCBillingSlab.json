@@ -82,7 +82,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
       
-      "minimumCharge": 100
+      "minimumCharge": 200
     },
     {
       "id": "7",
