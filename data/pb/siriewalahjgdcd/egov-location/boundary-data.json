@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.siriewalahjgdcd",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sirie Wala",
+                "localname": "Sirie Wala",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.siriewalahjgdcd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sirie Wala",
+                        "localname": "Sirie Wala",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sirie Wala",
+                "localname": "Sirie Wala",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.siriewalahjgdcd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sirie Wala",
+                        "localname": "Sirie Wala",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

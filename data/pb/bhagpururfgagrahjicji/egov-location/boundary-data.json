@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.bhagpururfgagrahjicji",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhagpur Urf Gagra",
+                "localname": "Bhagpur Urf Gagra",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhagpururfgagrahjicji",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhagpur Urf Gagra",
+                        "localname": "Bhagpur Urf Gagra",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhagpur Urf Gagra",
+                "localname": "Bhagpur Urf Gagra",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhagpururfgagrahjicji",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhagpur Urf Gagra",
+                        "localname": "Bhagpur Urf Gagra",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

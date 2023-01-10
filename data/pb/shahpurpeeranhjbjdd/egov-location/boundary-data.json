@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.shahpurpeeranhjbjdd",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Shahpur Peeran",
+                "localname": "Shahpur Peeran",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.shahpurpeeranhjbjdd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Shahpur Peeran",
+                        "localname": "Shahpur Peeran",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Shahpur Peeran",
+                "localname": "Shahpur Peeran",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.shahpurpeeranhjbjdd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Shahpur Peeran",
+                        "localname": "Shahpur Peeran",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

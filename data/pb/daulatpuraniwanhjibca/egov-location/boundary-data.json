@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.daulatpuraniwanhjibca",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Daulat Pura Niwan",
+                "localname": "Daulat Pura Niwan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.daulatpuraniwanhjibca",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Daulat Pura Niwan",
+                        "localname": "Daulat Pura Niwan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Daulat Pura Niwan",
+                "localname": "Daulat Pura Niwan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.daulatpuraniwanhjibca",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Daulat Pura Niwan",
+                        "localname": "Daulat Pura Niwan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

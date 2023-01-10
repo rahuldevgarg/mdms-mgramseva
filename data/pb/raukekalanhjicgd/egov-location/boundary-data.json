@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.raukekalanhjicgd",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Rauke Kalan",
+                "localname": "Rauke Kalan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.raukekalanhjicgd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Rauke Kalan",
+                        "localname": "Rauke Kalan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Rauke Kalan",
+                "localname": "Rauke Kalan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.raukekalanhjicgd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Rauke Kalan",
+                        "localname": "Rauke Kalan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

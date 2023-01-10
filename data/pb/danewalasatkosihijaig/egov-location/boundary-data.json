@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.danewalasatkosihijaig",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dane Wala Sat Kosi",
+                "localname": "Dane Wala Sat Kosi",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.danewalasatkosihijaig",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Dane Wala Sat Kosi",
+                        "localname": "Dane Wala Sat Kosi",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dane Wala Sat Kosi",
+                "localname": "Dane Wala Sat Kosi",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.danewalasatkosihijaig",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Dane Wala Sat Kosi",
+                        "localname": "Dane Wala Sat Kosi",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

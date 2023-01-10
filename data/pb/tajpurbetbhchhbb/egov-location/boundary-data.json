@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.tajpurbetbhchhbb",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Tajpur Bet",
+                "localname": "Tajpur Bet",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.tajpurbetbhchhbb",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Tajpur Bet",
+                        "localname": "Tajpur Bet",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Tajpur Bet",
+                "localname": "Tajpur Bet",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.tajpurbetbhchhbb",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Tajpur Bet",
+                        "localname": "Tajpur Bet",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.banginihalsinghhjghha",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BANGI NIHAL SINGH",
+                "localname": "BANGI NIHAL SINGH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.banginihalsinghhjghha",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BANGI NIHAL SINGH",
+                        "localname": "BANGI NIHAL SINGH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BANGI NIHAL SINGH",
+                "localname": "BANGI NIHAL SINGH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.banginihalsinghhjghha",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BANGI NIHAL SINGH",
+                        "localname": "BANGI NIHAL SINGH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

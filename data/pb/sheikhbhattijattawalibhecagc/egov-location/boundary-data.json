@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.sheikhbhattijattawalibhecagc",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sheikh Bhatti Jatta Wali",
+                "localname": "Sheikh Bhatti Jatta Wali",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sheikhbhattijattawalibhecagc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sheikh Bhatti Jatta Wali",
+                        "localname": "Sheikh Bhatti Jatta Wali",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sheikh Bhatti Jatta Wali",
+                "localname": "Sheikh Bhatti Jatta Wali",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sheikhbhattijattawalibhecagc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sheikh Bhatti Jatta Wali",
+                        "localname": "Sheikh Bhatti Jatta Wali",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

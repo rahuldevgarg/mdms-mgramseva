@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.nawantandabhecdha",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Nawan Tanda",
+                "localname": "Nawan Tanda",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.nawantandabhecdha",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Nawan Tanda",
+                        "localname": "Nawan Tanda",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Nawan Tanda",
+                "localname": "Nawan Tanda",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.nawantandabhecdha",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Nawan Tanda",
+                        "localname": "Nawan Tanda",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.ladytrivedicampbhifgag",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Lady Trivedi Camp",
+                "localname": "Lady Trivedi Camp",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.ladytrivedicampbhifgag",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Lady Trivedi Camp",
+                        "localname": "Lady Trivedi Camp",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Lady Trivedi Camp",
+                "localname": "Lady Trivedi Camp",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.ladytrivedicampbhifgag",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Lady Trivedi Camp",
+                        "localname": "Lady Trivedi Camp",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

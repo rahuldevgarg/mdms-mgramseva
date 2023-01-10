@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.sukalgarhhiffhc",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sukal Garh",
+                "localname": "Sukal Garh",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sukalgarhhiffhc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sukal Garh",
+                        "localname": "Sukal Garh",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sukal Garh",
+                "localname": "Sukal Garh",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sukalgarhhiffhc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sukal Garh",
+                        "localname": "Sukal Garh",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
