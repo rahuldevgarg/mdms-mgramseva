@@ -3,12 +3,15 @@
   "moduleName": "ws-services-calculation",
   "Penalty": [
     {
-      "rate": 10,
+      "type": "FLAT",
+      "subType": "outstanding",
+      "rate": null,
+      "amount": 15,
       "minAmount": null,
-      "applicableAfterDays": 0,
+      "applicableAfterDays": 10,
       "flatAmount": null,
-      "fromFY": "2019-20",
-      "startingDay": "1/01/2019"
+      "fromFY": "2022-23",
+      "startingDay": "1/01/2022"
     }
   ]
 }
