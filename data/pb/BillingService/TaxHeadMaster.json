@@ -127,6 +127,17 @@
       "isRequired": false,
       "IsBillamend": true
     },
+     {
+      "category": "PENALTY",
+      "service": "WS",
+      "name": "Penalty",
+      "code": "WS_TIME_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": true,
+      "IsBillamend": true
+    },
     {
       "category": "PENALTY",
       "service": "WS",
@@ -135,7 +146,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
-      "isRequired": false,
+      "isRequired": true,
       "IsBillamend": true
     },
     {
@@ -179,7 +190,7 @@
       "isDebit": true,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false,
+      "isRequired": true,
       "IsBillamend": false
     },
     {
