@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.chhaparamsinghhihcfd",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Chhapa Ram Singh",
+                "localname": "Chhapa Ram Singh",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.chhaparamsinghhihcfd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Chhapa Ram Singh",
+                        "localname": "Chhapa Ram Singh",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Chhapa Ram Singh",
+                "localname": "Chhapa Ram Singh",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.chhaparamsinghhihcfd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Chhapa Ram Singh",
+                        "localname": "Chhapa Ram Singh",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

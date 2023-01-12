@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.butterbakhuhahjihbe",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Butter Bakhuha",
+                "localname": "Butter Bakhuha",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.butterbakhuhahjihbe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Butter Bakhuha",
+                        "localname": "Butter Bakhuha",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Butter Bakhuha",
+                "localname": "Butter Bakhuha",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.butterbakhuhahjihbe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Butter Bakhuha",
+                        "localname": "Butter Bakhuha",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

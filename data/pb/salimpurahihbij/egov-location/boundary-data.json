@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.salimpurahihbij",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Salim Pura",
+                "localname": "Salim Pura",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.salimpurahihbij",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Salim Pura",
+                        "localname": "Salim Pura",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Salim Pura",
+                "localname": "Salim Pura",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.salimpurahihbij",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Salim Pura",
+                        "localname": "Salim Pura",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

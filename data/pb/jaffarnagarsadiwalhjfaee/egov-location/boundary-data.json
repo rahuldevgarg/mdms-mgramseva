@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.jaffarnagarsadiwalhjfaee",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Jaffar Nagar Sadiwal",
+                "localname": "Jaffar Nagar Sadiwal",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jaffarnagarsadiwalhjfaee",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jaffar Nagar Sadiwal",
+                        "localname": "Jaffar Nagar Sadiwal",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Jaffar Nagar Sadiwal",
+                "localname": "Jaffar Nagar Sadiwal",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jaffarnagarsadiwalhjfaee",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jaffar Nagar Sadiwal",
+                        "localname": "Jaffar Nagar Sadiwal",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

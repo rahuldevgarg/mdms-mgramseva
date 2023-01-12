@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.rupowalhjbbgf",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Rupowal",
+                "localname": "Rupowal",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.rupowalhjbbgf",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Rupowal",
+                        "localname": "Rupowal",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Rupowal",
+                "localname": "Rupowal",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.rupowalhjbbgf",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Rupowal",
+                        "localname": "Rupowal",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

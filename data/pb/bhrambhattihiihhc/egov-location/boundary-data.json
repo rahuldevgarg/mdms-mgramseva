@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.bhrambhattihiihhc",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhram Bhatti",
+                "localname": "Bhram Bhatti",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhrambhattihiihhc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhram Bhatti",
+                        "localname": "Bhram Bhatti",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhram Bhatti",
+                "localname": "Bhram Bhatti",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhrambhattihiihhc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhram Bhatti",
+                        "localname": "Bhram Bhatti",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

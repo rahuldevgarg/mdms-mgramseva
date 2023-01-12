@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.derabababasantpuribhecffc",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dera Baba Basant Puri",
+                "localname": "Dera Baba Basant Puri",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.derabababasantpuribhecffc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Dera Baba Basant Puri",
+                        "localname": "Dera Baba Basant Puri",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dera Baba Basant Puri",
+                "localname": "Dera Baba Basant Puri",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.derabababasantpuribhecffc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Dera Baba Basant Puri",
+                        "localname": "Dera Baba Basant Puri",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

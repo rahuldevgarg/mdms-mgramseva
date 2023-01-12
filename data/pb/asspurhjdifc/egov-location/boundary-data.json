@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.asspurhjdifc",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Asspur",
+                "localname": "Asspur",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.asspurhjdifc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Asspur",
+                        "localname": "Asspur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Asspur",
+                "localname": "Asspur",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.asspurhjdifc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Asspur",
+                        "localname": "Asspur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

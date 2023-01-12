@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.majrakalanhjeihc",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Majra Kalan",
+                "localname": "Majra Kalan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.majrakalanhjeihc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Majra Kalan",
+                        "localname": "Majra Kalan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Majra Kalan",
+                "localname": "Majra Kalan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.majrakalanhjeihc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Majra Kalan",
+                        "localname": "Majra Kalan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.bhaggupurahihjba",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhaggupura",
+                "localname": "Bhaggupura",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhaggupurahihjba",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhaggupura",
+                        "localname": "Bhaggupura",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhaggupura",
+                "localname": "Bhaggupura",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhaggupurahihjba",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhaggupura",
+                        "localname": "Bhaggupura",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

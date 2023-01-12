@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.kotkararkhanhjbeab",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Kot Karar Khan",
+                "localname": "Kot Karar Khan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.kotkararkhanhjbeab",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Kot Karar Khan",
+                        "localname": "Kot Karar Khan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Kot Karar Khan",
+                "localname": "Kot Karar Khan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.kotkararkhanhjbeab",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Kot Karar Khan",
+                        "localname": "Kot Karar Khan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

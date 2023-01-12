@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.maankherahjjadc",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Maan Khera",
+                "localname": "Maan Khera",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.maankherahjjadc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Maan Khera",
+                        "localname": "Maan Khera",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Maan Khera",
+                "localname": "Maan Khera",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.maankherahjjadc",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Maan Khera",
+                        "localname": "Maan Khera",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

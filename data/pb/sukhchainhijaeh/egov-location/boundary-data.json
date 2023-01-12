@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.sukhchainhijaeh",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sukh Chain",
+                "localname": "Sukh Chain",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sukhchainhijaeh",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sukh Chain",
+                        "localname": "Sukh Chain",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sukh Chain",
+                "localname": "Sukh Chain",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sukhchainhijaeh",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sukh Chain",
+                        "localname": "Sukh Chain",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

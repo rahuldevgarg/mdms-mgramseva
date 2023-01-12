@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.singhanwalahjibei",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Singhan Wala",
+                "localname": "Singhan Wala",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.singhanwalahjibei",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Singhan Wala",
+                        "localname": "Singhan Wala",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Singhan Wala",
+                "localname": "Singhan Wala",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.singhanwalahjibei",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Singhan Wala",
+                        "localname": "Singhan Wala",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

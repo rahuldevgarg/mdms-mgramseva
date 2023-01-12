@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.ghoneywalahihahd",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Ghoney Wala",
+                "localname": "Ghoney Wala",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.ghoneywalahihahd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Ghoney Wala",
+                        "localname": "Ghoney Wala",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Ghoney Wala",
+                "localname": "Ghoney Wala",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.ghoneywalahihahd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Ghoney Wala",
+                        "localname": "Ghoney Wala",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

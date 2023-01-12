@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.jassibagwalihjggbi",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Jassi Bag Wali",
+                "localname": "Jassi Bag Wali",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jassibagwalihjggbi",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jassi Bag Wali",
+                        "localname": "Jassi Bag Wali",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Jassi Bag Wali",
+                "localname": "Jassi Bag Wali",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jassibagwalihjggbi",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jassi Bag Wali",
+                        "localname": "Jassi Bag Wali",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

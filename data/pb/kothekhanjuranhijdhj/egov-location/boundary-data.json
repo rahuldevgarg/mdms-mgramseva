@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.kothekhanjuranhijdhj",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Kothe Khanjuran",
+                "localname": "Kothe Khanjuran",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.kothekhanjuranhijdhj",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Kothe Khanjuran",
+                        "localname": "Kothe Khanjuran",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Kothe Khanjuran",
+                "localname": "Kothe Khanjuran",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.kothekhanjuranhijdhj",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Kothe Khanjuran",
+                        "localname": "Kothe Khanjuran",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.jorkiandhewalihiiibg",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Jorki Andhe Wali",
+                "localname": "Jorki Andhe Wali",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jorkiandhewalihiiibg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jorki Andhe Wali",
+                        "localname": "Jorki Andhe Wali",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Jorki Andhe Wali",
+                "localname": "Jorki Andhe Wali",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jorkiandhewalihiiibg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jorki Andhe Wali",
+                        "localname": "Jorki Andhe Wali",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

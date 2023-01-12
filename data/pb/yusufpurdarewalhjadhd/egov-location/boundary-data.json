@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.yusufpurdarewalhjadhd",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Yusufpur Darewal",
+                "localname": "Yusufpur Darewal",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.yusufpurdarewalhjadhd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Yusufpur Darewal",
+                        "localname": "Yusufpur Darewal",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Yusufpur Darewal",
+                "localname": "Yusufpur Darewal",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.yusufpurdarewalhjadhd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Yusufpur Darewal",
+                        "localname": "Yusufpur Darewal",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
