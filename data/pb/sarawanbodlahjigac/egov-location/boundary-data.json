@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.sarawanbodlahjigac",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sarawan Bodla",
+                "localname": "Sarawan Bodla",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sarawanbodlahjigac",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sarawan Bodla",
+                        "localname": "Sarawan Bodla",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Sarawan Bodla",
+                "localname": "Sarawan Bodla",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.sarawanbodlahjigac",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Sarawan Bodla",
+                        "localname": "Sarawan Bodla",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

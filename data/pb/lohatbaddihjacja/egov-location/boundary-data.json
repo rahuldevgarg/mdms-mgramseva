@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.lohatbaddihjacja",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Lohat Baddi",
+                "localname": "Lohat Baddi",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.lohatbaddihjacja",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Lohat Baddi",
+                        "localname": "Lohat Baddi",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Lohat Baddi",
+                "localname": "Lohat Baddi",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.lohatbaddihjacja",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Lohat Baddi",
+                        "localname": "Lohat Baddi",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

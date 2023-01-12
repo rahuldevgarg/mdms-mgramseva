@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.murarhjbjbd",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Murar",
+                "localname": "Murar",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.murarhjbjbd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Murar",
+                        "localname": "Murar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Murar",
+                "localname": "Murar",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.murarhjbjbd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Murar",
+                        "localname": "Murar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

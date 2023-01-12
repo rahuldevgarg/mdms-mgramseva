@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.ramuwalanawanhjibaa",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Ramu Wala Nawan",
+                "localname": "Ramu Wala Nawan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.ramuwalanawanhjibaa",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Ramu Wala Nawan",
+                        "localname": "Ramu Wala Nawan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Ramu Wala Nawan",
+                "localname": "Ramu Wala Nawan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.ramuwalanawanhjibaa",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Ramu Wala Nawan",
+                        "localname": "Ramu Wala Nawan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

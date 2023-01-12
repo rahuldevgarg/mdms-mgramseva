@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.dasodianhjijbg",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dasodian",
+                "localname": "Dasodian",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dasodianhjijbg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Dasodian",
+                        "localname": "Dasodian",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dasodian",
+                "localname": "Dasodian",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dasodianhjijbg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Dasodian",
+                        "localname": "Dasodian",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

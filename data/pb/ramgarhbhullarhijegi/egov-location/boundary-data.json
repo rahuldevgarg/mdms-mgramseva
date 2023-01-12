@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.ramgarhbhullarhijegi",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Ramgarh Bhullar",
+                "localname": "Ramgarh Bhullar",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.ramgarhbhullarhijegi",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Ramgarh Bhullar",
+                        "localname": "Ramgarh Bhullar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Ramgarh Bhullar",
+                "localname": "Ramgarh Bhullar",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.ramgarhbhullarhijegi",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Ramgarh Bhullar",
+                        "localname": "Ramgarh Bhullar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

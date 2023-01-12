@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.bhagwangarhurfbhukhianwalihjggcg",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhagwangarh Urf Bhukhianwali",
+                "localname": "Bhagwangarh Urf Bhukhianwali",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhagwangarhurfbhukhianwalihjggcg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhagwangarh Urf Bhukhianwali",
+                        "localname": "Bhagwangarh Urf Bhukhianwali",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhagwangarh Urf Bhukhianwali",
+                "localname": "Bhagwangarh Urf Bhukhianwali",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhagwangarhurfbhukhianwalihjggcg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhagwangarh Urf Bhukhianwali",
+                        "localname": "Bhagwangarh Urf Bhukhianwali",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

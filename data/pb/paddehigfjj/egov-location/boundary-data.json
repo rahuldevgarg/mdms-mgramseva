@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.paddehigfjj",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Padde",
+                "localname": "Padde",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.paddehigfjj",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Padde",
+                        "localname": "Padde",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Padde",
+                "localname": "Padde",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.paddehigfjj",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Padde",
+                        "localname": "Padde",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

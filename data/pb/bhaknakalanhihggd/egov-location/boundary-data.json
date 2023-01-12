@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.bhaknakalanhihggd",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhakna Kalan",
+                "localname": "Bhakna Kalan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhaknakalanhihggd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhakna Kalan",
+                        "localname": "Bhakna Kalan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhakna Kalan",
+                "localname": "Bhakna Kalan",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhaknakalanhihggd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhakna Kalan",
+                        "localname": "Bhakna Kalan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

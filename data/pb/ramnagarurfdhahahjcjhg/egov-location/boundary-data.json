@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.ramnagarurfdhahahjcjhg",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Ram Nagar Urf Dhaha",
+                "localname": "Ram Nagar Urf Dhaha",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.ramnagarurfdhahahjcjhg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Ram Nagar Urf Dhaha",
+                        "localname": "Ram Nagar Urf Dhaha",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Ram Nagar Urf Dhaha",
+                "localname": "Ram Nagar Urf Dhaha",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.ramnagarurfdhahahjcjhg",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Ram Nagar Urf Dhaha",
+                        "localname": "Ram Nagar Urf Dhaha",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

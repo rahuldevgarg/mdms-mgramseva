@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.rarasahibhjaaig",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Rara Sahib",
+                "localname": "Rara Sahib",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.rarasahibhjaaig",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Rara Sahib",
+                        "localname": "Rara Sahib",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Rara Sahib",
+                "localname": "Rara Sahib",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.rarasahibhjaaig",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Rara Sahib",
+                        "localname": "Rara Sahib",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

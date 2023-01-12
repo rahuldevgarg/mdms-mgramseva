@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.gobindpurahjgcfi",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Gobindpura",
+                "localname": "Gobindpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.gobindpurahjgcfi",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Gobindpura",
+                        "localname": "Gobindpura",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Gobindpura",
+                "localname": "Gobindpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.gobindpurahjgcfi",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Gobindpura",
+                        "localname": "Gobindpura",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

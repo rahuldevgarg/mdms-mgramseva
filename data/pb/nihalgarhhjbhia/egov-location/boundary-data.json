@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.nihalgarhhjbhia",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Nihal Garh",
+                "localname": "Nihal Garh",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.nihalgarhhjbhia",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Nihal Garh",
+                        "localname": "Nihal Garh",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Nihal Garh",
+                "localname": "Nihal Garh",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.nihalgarhhjbhia",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Nihal Garh",
+                        "localname": "Nihal Garh",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

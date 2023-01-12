@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.nawanpindnaichahjbbig",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Nawan Pind Naicha",
+                "localname": "Nawan Pind Naicha",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.nawanpindnaichahjbbig",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Nawan Pind Naicha",
+                        "localname": "Nawan Pind Naicha",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Nawan Pind Naicha",
+                "localname": "Nawan Pind Naicha",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.nawanpindnaichahjbbig",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Nawan Pind Naicha",
+                        "localname": "Nawan Pind Naicha",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.roshanwalahjiebe",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Roshan Wala",
+                "localname": "Roshan Wala",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.roshanwalahjiebe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Roshan Wala",
+                        "localname": "Roshan Wala",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Roshan Wala",
+                "localname": "Roshan Wala",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.roshanwalahjiebe",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Roshan Wala",
+                        "localname": "Roshan Wala",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

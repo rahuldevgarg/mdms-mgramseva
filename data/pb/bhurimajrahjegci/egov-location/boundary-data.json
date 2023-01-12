@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.bhurimajrahjegci",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhuri Majra",
+                "localname": "Bhuri Majra",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhurimajrahjegci",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhuri Majra",
+                        "localname": "Bhuri Majra",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bhuri Majra",
+                "localname": "Bhuri Majra",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bhurimajrahjegci",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Bhuri Majra",
+                        "localname": "Bhuri Majra",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

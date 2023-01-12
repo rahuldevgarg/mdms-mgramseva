@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.kotpuransinghhjbicj",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Kot Puran Singh",
+                "localname": "Kot Puran Singh",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.kotpuransinghhjbicj",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Kot Puran Singh",
+                        "localname": "Kot Puran Singh",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Kot Puran Singh",
+                "localname": "Kot Puran Singh",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.kotpuransinghhjbicj",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Kot Puran Singh",
+                        "localname": "Kot Puran Singh",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

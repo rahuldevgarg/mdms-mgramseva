@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.jaganpurbhedbga",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Jaganpur",
+                "localname": "Jaganpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jaganpurbhedbga",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jaganpur",
+                        "localname": "Jaganpur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Jaganpur",
+                "localname": "Jaganpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.jaganpurbhedbga",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jaganpur",
+                        "localname": "Jaganpur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

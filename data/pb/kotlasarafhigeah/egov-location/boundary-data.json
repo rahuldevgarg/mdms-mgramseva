@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.kotlasarafhigeah",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Kotla Saraf",
+                "localname": "Kotla Saraf",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.kotlasarafhigeah",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Kotla Saraf",
+                        "localname": "Kotla Saraf",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Kotla Saraf",
+                "localname": "Kotla Saraf",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.kotlasarafhigeah",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Kotla Saraf",
+                        "localname": "Kotla Saraf",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

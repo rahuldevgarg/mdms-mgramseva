@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.hardokhundpurhjccaa",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Hardo Khundpur",
+                "localname": "Hardo Khundpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.hardokhundpurhjccaa",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Hardo Khundpur",
+                        "localname": "Hardo Khundpur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Hardo Khundpur",
+                "localname": "Hardo Khundpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.hardokhundpurhjccaa",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Hardo Khundpur",
+                        "localname": "Hardo Khundpur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

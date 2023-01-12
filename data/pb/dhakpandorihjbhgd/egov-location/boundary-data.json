@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.dhakpandorihjbhgd",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dhak Pandori",
+                "localname": "Dhak Pandori",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dhakpandorihjbhgd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Dhak Pandori",
+                        "localname": "Dhak Pandori",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dhak Pandori",
+                "localname": "Dhak Pandori",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dhakpandorihjbhgd",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Dhak Pandori",
+                        "localname": "Dhak Pandori",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
