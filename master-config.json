@@ -193,14 +193,14 @@
   "BillingService": {
     "TaxPeriod": {
       "masterName": "TaxPeriod",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
     },
     "TaxHeadMaster": {
       "masterName": "TaxHeadMaster",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
