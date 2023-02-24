@@ -193,7 +193,7 @@
   "BillingService": {
     "TaxPeriod": {
       "masterName": "TaxPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
