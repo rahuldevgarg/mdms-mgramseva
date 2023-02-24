@@ -396,13 +396,6 @@
         "$.fromFY"
       ]
     },
-    "Penalty": {
-      "masterName": "Penalty",
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
-    },
     "MutationRebate": {
       "masterName": "MutationRebate",
       "isStateLevel": true,
@@ -499,7 +492,7 @@
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
