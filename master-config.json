@@ -200,7 +200,7 @@
     },
     "TaxHeadMaster": {
       "masterName": "TaxHeadMaster",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
