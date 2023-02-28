@@ -4,7 +4,7 @@
   "Penalty": [
     {
       "type": "Fixed",
-      "subType": "outstanding",
+      "subType": "currentMonth",
       "rate": 5,
       "amount":null,
       "minAmount": null,
