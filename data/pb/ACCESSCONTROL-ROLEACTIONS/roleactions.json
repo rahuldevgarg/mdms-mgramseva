@@ -2680,30 +2680,6 @@
       "actionid": 2035,
       "actioncode": "",
       "tenantId": "pb"
-    },
-    {
-      "rolecode": "COLLECTION_OPERATOR",
-      "actionid": 2035,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "BULK_DEMAND_PROCESSING",
-      "actionid": 2035,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "EXPENSE_PROCESSING",
-      "actionid": 2035,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2035,
-      "actioncode": "",
-      "tenantId": "pb"
     }
   ]
 }
