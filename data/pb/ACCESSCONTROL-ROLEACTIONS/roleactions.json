@@ -2577,6 +2577,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2026,
       "actioncode": "",
@@ -2652,6 +2658,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2032,
       "actioncode": "",
@@ -2683,6 +2695,12 @@
     },
     {
       "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
       "actionid": 2033,
       "actioncode": "",
       "tenantId": "pb"
