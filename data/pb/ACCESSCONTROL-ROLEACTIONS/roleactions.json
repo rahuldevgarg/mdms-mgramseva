@@ -2551,7 +2551,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "GP_ADMIN",
+      "rolecode": "COLLECTION_OPERATOR",
       "actionid": 2032,
       "actioncode": "",
       "tenantId": "pb"
