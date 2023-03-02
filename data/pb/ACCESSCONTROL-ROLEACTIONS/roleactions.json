@@ -2587,6 +2587,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+	  {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "GP_ADMIN",
       "actionid": 2027,
