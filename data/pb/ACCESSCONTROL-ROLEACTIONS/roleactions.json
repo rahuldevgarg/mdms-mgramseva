@@ -2734,6 +2734,18 @@
       "actionid": 2035,
       "actioncode": "",
       "tenantId": "pb"
+    },
+	  {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
