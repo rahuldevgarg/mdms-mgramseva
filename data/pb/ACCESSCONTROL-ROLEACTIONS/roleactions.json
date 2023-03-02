@@ -2664,7 +2664,7 @@
       "tenantId": "pb"
     },
 	  {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "GP_ADMIN",
       "actionid": 2034,
       "actioncode": "",
       "tenantId": "pb"
