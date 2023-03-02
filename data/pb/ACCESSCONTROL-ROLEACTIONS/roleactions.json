@@ -2640,12 +2640,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "COLLECTION_OPERATOR",
-      "actionid": 1899,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
    {
       "rolecode": "EMPLOYEE",
       "actionid": 1901,
@@ -2661,6 +2655,36 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	  {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1899,
       "actioncode": "",
       "tenantId": "pb"
     }
