@@ -2699,6 +2699,18 @@
       "actionid": 2035,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
