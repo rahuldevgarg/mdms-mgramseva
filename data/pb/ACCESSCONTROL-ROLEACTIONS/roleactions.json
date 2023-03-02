@@ -759,7 +759,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "GP_ADMIN",
+      "rolecode": "COLLECTION_OPERATOR",
       "actionid": 1899,
       "actioncode": "",
       "tenantId": "pb"
@@ -771,7 +771,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "GP_ADMIN",
+      "rolecode": "COLLECTION_OPERATOR",
       "actionid": 1901,
       "actioncode": "",
       "tenantId": "pb"
