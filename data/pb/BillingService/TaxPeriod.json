@@ -172,7 +172,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.ELECTRICITY_BILL",
       "code": "EXPENSEELECTRICITY_BILL",
@@ -180,7 +180,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.SALARY",
       "code": "EXPENSESALARY",
@@ -188,7 +188,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.MACHINERY_REPAIR",
       "code": "EXPENSEMACHINERYREPAIR",
@@ -196,7 +196,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.OTHERS",
       "code": "EXPENSEOTHERS",
@@ -204,7 +204,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "WS",
       "code": "WC2023",
@@ -212,7 +212,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.CHLORINATION",
       "code": "EXPENSECHLORINATION",
@@ -220,7 +220,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.WATER_TREATMENT",
       "code": "EXPENSEWATERTREATMENT",
@@ -228,7 +228,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.PIPELINE_REPAIR",
       "code": "EXPENSEPIPELINEREPAIR",
@@ -236,7 +236,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.NEW_MACHINERY",
       "code": "EXPENSENEWMACHINERY",
@@ -244,7 +244,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.NEW_PIPELINE",
       "code": "EXPENSENEWPIPELINE",
@@ -252,7 +252,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.INCENTIVES",
       "code": "EXPENSEINCENTIVES",
