@@ -171,7 +171,7 @@
       "financialYear": "2022-23"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.ELECTRICITY_BILL",
@@ -179,7 +179,7 @@
       "financialYear": "2023-24"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.SALARY",
@@ -187,7 +187,7 @@
       "financialYear": "2023-24"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.MACHINERY_REPAIR",
@@ -195,7 +195,7 @@
       "financialYear": "2023-24"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.OTHERS",
@@ -203,7 +203,7 @@
       "financialYear": "2023-24"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "WS",
@@ -211,7 +211,7 @@
       "financialYear": "2023-24"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.CHLORINATION",
@@ -219,7 +219,7 @@
       "financialYear": "2023-24"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.WATER_TREATMENT",
@@ -227,7 +227,7 @@
       "financialYear": "2023-24"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.PIPELINE_REPAIR",
@@ -235,7 +235,7 @@
       "financialYear": "2023-24"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.NEW_MACHINERY",
@@ -243,7 +243,7 @@
       "financialYear": "2023-24"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.NEW_PIPELINE",
@@ -251,7 +251,7 @@
       "financialYear": "2023-24"
     },
     {
-      "fromDate": 1680244199000,
+      "fromDate": 1680287400000,
       "toDate": 1711866599999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.INCENTIVES",
