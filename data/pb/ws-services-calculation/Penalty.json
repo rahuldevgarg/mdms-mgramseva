@@ -4,7 +4,7 @@
   "Penalty": [
     {
       "type": "Fixed",
-      "subType": "outstanding",
+      "subType": "outstandingWithoutPenalty",
       "rate": 10,
       "amount":null,
       "minAmount": null,
