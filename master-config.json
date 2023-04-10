@@ -11,7 +11,7 @@
   "ACCESSCONTROL-ROLES": {
     "roles": {
       "masterName": "roles",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
