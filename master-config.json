@@ -11,7 +11,7 @@
   "ACCESSCONTROL-ROLES": {
     "roles": {
       "masterName": "roles",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
@@ -207,7 +207,7 @@
     },
     "BusinessService": {
       "masterName": "BusinessService",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
