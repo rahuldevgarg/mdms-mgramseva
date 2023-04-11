@@ -1,11 +1,11 @@
 {
-  "tenantId": "pb.lodhipur",
+  "tenantId": "pb",
   "moduleName": "ws-services-calculation",
   "Penalty": [
     {
       "type": "Fixed",
-      "subType": "currentMonth",
-      "rate": 5,
+      "subType": "outstandingWithoutPenalty",
+      "rate": 10,
       "amount":null,
       "minAmount": null,
       "applicableAfterDays": 10,
