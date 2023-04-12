@@ -211,7 +211,15 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "PaymentService": {
+      "masterName": "PaymentService",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
+
   },
   "FinanceModule": {
     "BusinessServiceMapping": {
