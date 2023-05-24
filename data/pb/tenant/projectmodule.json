@@ -2,7 +2,6 @@
     "tenantId": "pb",
     "moduleName": "tenant",
     "projectmodule": [
-        [
             {
                 "name": "Central",
                 "code": "Z01",
@@ -31679,5 +31678,4 @@
                 ]
             }
         ]
-    ]
 }
