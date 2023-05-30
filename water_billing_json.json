@@ -1,0 +1,974 @@
+[
+    {
+        "tenantId": "pb.seenpurbgjibja",
+        "tenantName": "Seenpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kassochahalhjbdid",
+        "tenantName": "Kasso Chahal",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kolianwalahjbeaa",
+        "tenantName": "Kolian Wala",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dulowalhjbdeh",
+        "tenantName": "Dulowal",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kutbewalahjbgah",
+        "tenantName": "Kutbe Wala",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kotlahjaijg",
+        "tenantName": "Kotla",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.malachhannahjadde",
+        "tenantName": "Mala Chhanna",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.tagarhjbbgj",
+        "tenantName": "Tagar",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.pamanhjbhbj",
+        "tenantName": "Paman",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.budhuwalahjbihe",
+        "tenantName": "Budhuwala",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.jainpurhjbgda",
+        "tenantName": "Jainpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.narangpurhjbcii",
+        "tenantName": "Narangpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.jandirhjaiff",
+        "tenantName": "Jandir",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 70,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 70,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.talwandibutianhjagia",
+        "tenantName": "Talwandi Butian",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.daulahjbgdi",
+        "tenantName": "Daula",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.giganwalhjaifh",
+        "tenantName": "Giganwal",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.khassanhjbfcc",
+        "tenantName": "Khassan",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.saidowalhjbedg",
+        "tenantName": "Saidowal",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.nawanpindhjbecc",
+        "tenantName": "Nawan Pind",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 150,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 150,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.sarupwalahjbfja",
+        "tenantName": "Sarupwala",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kishangarhhjaejf",
+        "tenantName": "Kishangarh",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.balnauhjbabf",
+        "tenantName": "Balnau",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.laroihjaiec",
+        "tenantName": "Laroi",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.sohaltalkhadakhnihjadef",
+        "tenantName": "Sohal Talkha Dakhni",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 150,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 150,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dhawankhanishanhjbdef",
+        "tenantName": "Dhawankha Nishan",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.newabadikishangarhhjaejg",
+        "tenantName": "New Abadi Kishangarh",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.toganwalahjbefa",
+        "tenantName": "Toganwala",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.jabosudharhjbgcj",
+        "tenantName": "Jabo Sudhar",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 150,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 150,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.mehmuwalyusafpurhjaddc",
+        "tenantName": "Mehmuwal Yusafpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 200,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 200,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.satowalihjbcfd",
+        "tenantName": "Satowali",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.jaidhjbfbi",
+        "tenantName": "Jaid",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dogranwalabhcajef",
+        "tenantName": "Dogranwala",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.badialhjbdag",
+        "tenantName": "Badial",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.mankohjbceb",
+        "tenantName": "Manko",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.puranpurhjahgf",
+        "tenantName": "Puranpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 70,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 70,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dhapaihjbdeb",
+        "tenantName": "Dhapai",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.chuharpurhjbgbg",
+        "tenantName": "Chuharpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.sohaljagirhjahbg",
+        "tenantName": "Sohal Jagir",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.bhagobudhahjbghj",
+        "tenantName": "Bhago Budha",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 80,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 80,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kingrachowalahjaija",
+        "tenantName": "Kingra Cho Wala",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dugrihjafbg",
+        "tenantName": "Dugri",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.gosalhjbdfd",
+        "tenantName": "Gosal",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.lodhibhulanahjbeag",
+        "tenantName": "Lodhi Bhulana",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.akharahjaihg",
+        "tenantName": "Akhara",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.malabhafajg",
+        "tenantName": "Mala",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.brindpurhjbdcg",
+        "tenantName": "Brindpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 150,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 150,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kapurthalaruralhjbdhi",
+        "tenantName": "Kapurthala Rural",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.bhanihussekhanhjbghg",
+        "tenantName": "Bhani Husse Khan",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kahlwanhjbdhb",
+        "tenantName": "Kahlwan",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.mangarodahjbebg",
+        "tenantName": "Manga Roda",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.harijanbastihjbfcd",
+        "tenantName": "Harijan Basti",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kattanahjajhf",
+        "tenantName": "Kattana",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.saraijattanhjbfhe",
+        "tenantName": "Sarai Jattan",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.jajjakalanhjbccc",
+        "tenantName": "Jajja Kalan",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kotlisheikhanhjbcib",
+        "tenantName": "Kotli Sheikhan",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.bassihjbejf",
+        "tenantName": "Bassi",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.chuladhahjbgcd",
+        "tenantName": "Chuladha",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.shahwalaindresahjbfif",
+        "tenantName": "Shahwala Indresa",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dhurehjbchi",
+        "tenantName": "Dhure",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.sunranwalahjbeef",
+        "tenantName": "Sunran Wala",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kureshianhjaidg",
+        "tenantName": "Kureshian",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.bhandaldonahjbdba",
+        "tenantName": "Bhandal Dona",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.jeorgepurmeripurhjbgch",
+        "tenantName": "Jeorgepur-Meripur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.alaudinpurhjbdac",
+        "tenantName": "Alaudinpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.hazarahjahfi",
+        "tenantName": "Hazara",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.uchahjbffa",
+        "tenantName": "Ucha",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.jahangirpurhjbdgd",
+        "tenantName": "Jahangirpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.bakarpurhjbejd",
+        "tenantName": "Bakarpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dhepurhjbcdf",
+        "tenantName": "Dhepur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.tandiaulakhhjbfei",
+        "tenantName": "Tandi Aulakh",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.biharipurhjbdcb",
+        "tenantName": "Biharipur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.kakarkalanhjadcb",
+        "tenantName": "Kakar Kalan",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.lesriwalhjbcgf",
+        "tenantName": "Lesri Wal",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 80,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 80,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.sohalpurhjaifg",
+        "tenantName": "Sohalpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.madhopurhjaici",
+        "tenantName": "Madhopur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.nurpurdonahjbecd",
+        "tenantName": "Nurpur Dona",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.bajahjbggj",
+        "tenantName": "Baja",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.modeltownbibiffg",
+        "tenantName": "Model Town",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.darapurbhfhfhd",
+        "tenantName": "Darapur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 60,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 60,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.maqsudpurhjbehh",
+        "tenantName": "Maqsudpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.jogindernagarbibiffc",
+        "tenantName": "Joginder Nagar",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.fialihjbdej",
+        "tenantName": "Fiali",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.chaugawanhjafjf",
+        "tenantName": "Chaugawan",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.mithrahjbebi",
+        "tenantName": "Mithra",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.mehmadpurhjbabh",
+        "tenantName": "Mehmadpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.chakdonahjbdcj",
+        "tenantName": "Chak Dona",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.bhundianhjaifi",
+        "tenantName": "Bhundian",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 70,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 70,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.arainwalahjbdae",
+        "tenantName": "Arainwala",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.sandhamhjaigc",
+        "tenantName": "Sandham",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dandupurhjbgfa",
+        "tenantName": "Dandupur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dhandaurhjbcja",
+        "tenantName": "Dhandaur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.khussropurhjbdjg",
+        "tenantName": "Khussropur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.depewalhjbgfc",
+        "tenantName": "Depewal",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.lodhiwalhjbhbb",
+        "tenantName": "Lodhiwal",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 80,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 80,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.mainwanhjbebb",
+        "tenantName": "Mainwan",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.mianibahadurhjbgjd",
+        "tenantName": "Miani Bahadur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dhandorhjbcjb",
+        "tenantName": "Dhandor",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.tayabpurhjbefb",
+        "tenantName": "Tayabpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.dingiranhjajah",
+        "tenantName": "Dingiran",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.sarowalhjajbd",
+        "tenantName": "Sarowal",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 60,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 60,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.muradpurhjbchd",
+        "tenantName": "Muradpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.mandhjafhd",
+        "tenantName": "Mand",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.bhagwanpurhjbdai",
+        "tenantName": "Bhagwanpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.khanowalhjbdii",
+        "tenantName": "Khanowal",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.fatehpurhjbabj",
+        "tenantName": "Fatehpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.bhardwaljianhjbcaa",
+        "tenantName": "Bhardwaljian",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 80,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 80,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.chackbahamanikhurdbhedcbc",
+        "tenantName": "Chack Bahamani Khurd",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 100,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 100,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    },
+    {
+        "tenantId": "pb.khanpurhjbije",
+        "tenantName": "Khanpur",
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge": 70,
+        "RESIDENTIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 70,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge": 50,
+        "COMMERCIAL_FLAT_Non_Metered_Minimum_Charge_Sheet": 0,
+        "Mismatch": "no"
+    }
+]
