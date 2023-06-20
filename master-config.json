@@ -207,7 +207,7 @@
     },
     "BusinessService": {
       "masterName": "BusinessService",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
