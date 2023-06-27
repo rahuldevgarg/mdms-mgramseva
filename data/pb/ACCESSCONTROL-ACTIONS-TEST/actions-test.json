@@ -1290,6 +1290,18 @@
       "serviceCode": "billing-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2036,
+      "name": "Expense Update",
+      "url": "/echallan-services/eChallan/v1/_updateCreateNoPayment",
+      "parentModule": "",
+      "displayName": "EChallan Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "echallan-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }

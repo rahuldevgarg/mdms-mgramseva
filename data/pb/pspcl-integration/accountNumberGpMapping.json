@@ -1,0 +1,11 @@
+{
+  "tenantId": "pb",
+  "moduleName": "pspcl-integration",
+  "accountNumberGpMapping": [
+    {
+      "accountNumber": "3000607536",
+      "departmentEntityName": "TESTING",
+      "departmentEntityCode": "100001"
+    }
+  ]
+}

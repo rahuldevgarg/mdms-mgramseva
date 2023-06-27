@@ -2073,6 +2073,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2036,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2005,
       "actioncode": "",
