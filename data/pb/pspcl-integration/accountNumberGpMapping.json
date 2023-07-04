@@ -6,6 +6,321 @@
       "accountNumber": "3000607536",
       "departmentEntityName": "TESTING",
       "departmentEntityCode": "100001"
+    },
+    {
+      "accountNumber": "3000312599",
+      "departmentEntityName": "BABHOUR SAHIB",
+      "departmentEntityCode": "793463"
+    },
+    {
+      "accountNumber": "3007447237",
+      "departmentEntityName": "LODHIPUR",
+      "departmentEntityCode": "7374"
+    },
+    {
+      "accountNumber": "3007447241",
+      "departmentEntityName":"MEHIAN",
+      "departmentEntityCode": "7375"
+    },
+    {
+      "accountNumber": "3007447315",
+      "departmentEntityName":"PAILI KHURD",
+      "departmentEntityCode": "7405"
+    },
+    {
+      "accountNumber": "3007447321",
+      "departmentEntityName":"MANGEWAL",
+      "departmentEntityCode": "7380"
+    },
+    {
+      "accountNumber": "3007447337",
+      "departmentEntityName":"MOHIWAL",
+      "departmentEntityCode": "7394"
+    },
+    {
+      "accountNumber": "3007447341",
+      "departmentEntityName":"JHINGRI UPPER",
+      "departmentEntityCode": "7353"
+    },
+    {
+      "accountNumber": "3007447342",
+      "departmentEntityName":"TARAPUR",
+      "departmentEntityCode": "7437"
+    },
+    {
+      "accountNumber": "R12SP150056H",
+      "departmentEntityName":"SUKHSAL",
+      "departmentEntityCode": "793537"
+    },
+    {
+      "accountNumber": "R12SP150057L",
+      "departmentEntityName":"HAZIPUR",
+      "departmentEntityCode": "1743495"
+    },
+    {
+      "accountNumber": "R12SP150058N",
+      "departmentEntityName":"DAGHOUR",
+      "departmentEntityCode": "793532"
+    },
+    {
+      "accountNumber": "R13SP172665L",
+      "departmentEntityName":"TAPPRIAN",
+      "departmentEntityCode": "1317454"
+    },
+    {
+      "accountNumber": "R14SP200069W",
+      "departmentEntityName":"NANGAL",
+      "departmentEntityCode": "7228"
+    },
+    {
+      "accountNumber": "R14SP200078X",
+      "departmentEntityName":"ABIANA KHURD",
+      "departmentEntityCode": "7141"
+    },
+    {
+      "accountNumber": "R14SP200079A",
+      "departmentEntityName":"ABIANA KALAN",
+      "departmentEntityCode": "7140"
+    },
+    {
+      "accountNumber": "R14SP200081X",
+      "departmentEntityName":"JHANDIAN KHURD",
+      "departmentEntityCode": "7199"
+    },
+    {
+      "accountNumber": "R14SP200084L",
+      "departmentEntityName":"LEHRIAN",
+      "departmentEntityCode": "7214"
+    },
+    {
+      "accountNumber": "R14SP200086W",
+      "departmentEntityName":"DHAHAN BASS",
+      "departmentEntityCode": "15488"
+    },
+    {
+      "accountNumber": "R14SP200087Y",
+      "departmentEntityName":"ASALTPUR",
+      "departmentEntityCode": "7144"
+    },
+    {
+      "accountNumber": "R14SP200088F",
+      "departmentEntityName":"AULAKH",
+      "departmentEntityCode": "7146"
+    },
+    {
+      "accountNumber": "R14SP200089K",
+      "departmentEntityName":"CHAJJA",
+      "departmentEntityCode": "7171"
+    },
+    {
+      "accountNumber": "R14SP200090Y",
+      "departmentEntityName":"CHOUNTA",
+      "departmentEntityCode": "7174"
+    },
+    {
+      "accountNumber": "R14SP200091F",
+      "departmentEntityName":"SARTHALI",
+      "departmentEntityCode": "7251"
+    },
+    {
+      "accountNumber": "R14SP200092K",
+      "departmentEntityName":"KHAD BATHLOUR",
+      "departmentEntityCode": "7159"
+    },
+    {
+      "accountNumber": "R14SP200093M",
+      "departmentEntityName":"BAHMANMAJRA",
+      "departmentEntityCode": "7148"
+    },
+    {
+      "accountNumber": "R14SP200101A",
+      "departmentEntityName":"BATARLA",
+      "departmentEntityCode": "7158"
+    },
+    {
+      "accountNumber": "R16SP240039Y",
+      "departmentEntityName":"JATOLI",
+      "departmentEntityCode": "7195"
+    },
+    {
+      "accountNumber": "R16SP240040N",
+      "departmentEntityName":"RURE MAJRA",
+      "departmentEntityCode": "7241"
+    },
+    {
+      "accountNumber": "R16SP240041W",
+      "departmentEntityName":"MUNNE",
+      "departmentEntityCode": "7225"
+    },
+    {
+      "accountNumber": "R16SP240042Y",
+      "departmentEntityName":"AZAMPUR",
+      "departmentEntityCode": "7147"
+    },
+    {
+      "accountNumber": "R16SP240043F",
+      "departmentEntityName":"HAYATPUR",
+      "departmentEntityCode": "7193"
+    },
+    {
+      "accountNumber": "R16SP240046P",
+      "departmentEntityName":"BARARI",
+      "departmentEntityCode": "7152"
+    },
+    {
+      "accountNumber": "R16SP240050X",
+      "departmentEntityName":"RAIPUR",
+      "departmentEntityCode": "4999"
+    },
+    {
+      "accountNumber": "R16SP240054N",
+      "departmentEntityName":"NURPUR KHURD",
+      "departmentEntityCode": "7231"
+    },
+    {
+      "accountNumber": "R16SP250051N",
+      "departmentEntityName":"DUMEWAL",
+      "departmentEntityCode": "7178"
+    },
+    {
+      "accountNumber": "R16SP250056M",
+      "departmentEntityName":"HEERPUR BASS",
+      "departmentEntityCode": "15500"
+    },
+    {
+      "accountNumber": "R16SP250060P",
+      "departmentEntityName":"HARIPUR",
+      "departmentEntityCode": "7191"
+    },
+    {
+      "accountNumber": "R16SP250061X",
+      "departmentEntityName":"MEHANDPUR",
+      "departmentEntityCode": "7222"
+    },
+    {
+      "accountNumber": "R16SP250062A",
+      "departmentEntityName":"RORUANE",
+      "departmentEntityCode": "7240"
+    },
+    {
+      "accountNumber": "R16SP250064L",
+      "departmentEntityName":"KAHNPUR KHUHI",
+      "departmentEntityCode": "7203"
+    },
+    {
+      "accountNumber": "R16SP250066W",
+      "departmentEntityName":"SANSOWAL",
+      "departmentEntityCode": "793575"
+    },
+    {
+      "accountNumber": "R16SP250085F",
+      "departmentEntityName":"KALWAN",
+      "departmentEntityCode": "7204"
+    },
+    {
+      "accountNumber": "R16SP260047Y",
+      "departmentEntityName":"LALPUR",
+      "departmentEntityCode": "7216"
+    },
+    {
+      "accountNumber": "R16SP260048F",
+      "departmentEntityName":"JHINJRI",
+      "departmentEntityCode": "7202"
+    },
+    {
+      "accountNumber": "R16SP260049K",
+      "departmentEntityName":"SASKAUR",
+      "departmentEntityCode": "7252"
+    },
+    {
+      "accountNumber": "R16SP260053M",
+      "departmentEntityName":"ROULI",
+      "departmentEntityCode": "7239"
+    },
+    {
+      "accountNumber": "R16SP260054P",
+      "departmentEntityName":"SEIKHPUR",
+      "departmentEntityCode": "7253"
+    },
+    {
+      "accountNumber": "R16SP260057H",
+      "departmentEntityName":"MEERPUR",
+      "departmentEntityCode": "7223"
+    },
+    {
+      "accountNumber": "R16SP260078Y",
+      "departmentEntityName":"KHERI",
+      "departmentEntityCode": "7209"
+    },
+    {
+      "accountNumber": "R16SP270035X",
+      "departmentEntityName":"LASARI",
+      "departmentEntityCode": "7217"
+    },
+    {
+      "accountNumber": "R16SP270036A",
+      "departmentEntityName":"SINGHPUR",
+      "departmentEntityCode": "7256"
+    },
+    {
+      "accountNumber": "R16SP270037H",
+      "departmentEntityName":"MANKU MAJRA",
+      "departmentEntityCode": "7220"
+    },
+    {
+      "accountNumber": "R16SP270038L",
+      "departmentEntityName":"GOBINDPUR BELA",
+      "departmentEntityCode": "7182"
+    },
+    {
+      "accountNumber": "R16SP270363L",
+      "departmentEntityName":"MOTHAPUR",
+      "departmentEntityCode": "7224"
+    },
+    {
+      "accountNumber": "R17SP290722N",
+      "departmentEntityName":"MAJHER",
+      "departmentEntityCode": "7378"
+    },
+    {
+      "accountNumber": "R17SP290724Y",
+      "departmentEntityName":"DOLOWAL UPPER",
+      "departmentEntityCode": "7330"
+    },
+    {
+      "accountNumber": "R17SP290725F",
+      "departmentEntityName":"BALOLI",
+      "departmentEntityCode": "7272"
+    },
+    {
+      "accountNumber": "R17SP290727M",
+      "departmentEntityName":"SHAHPUR",
+      "departmentEntityCode": "15531"
+    },
+    {
+      "accountNumber": "R17SP290729X",
+      "departmentEntityName":"NARD",
+      "departmentEntityCode": "7402"
+    },
+    {
+      "accountNumber": "R17SP290730M",
+      "departmentEntityName":"BARUWAL",
+      "departmentEntityCode": "7278"
+    },
+    {
+      "accountNumber": "R17SP290731P",
+      "departmentEntityName":"MASSEWAL",
+      "departmentEntityCode": "7382"
+    },
+    {
+      "accountNumber": "R17SP290739F",
+      "departmentEntityName":"MINDWAN LOWER",
+      "departmentEntityCode": "7393"
+    },
+    {
+      "accountNumber": "R17SP290741Y",
+      "departmentEntityName":"CHANDPUR",
+      "departmentEntityCode": "7311"
     }
   ]
 }
