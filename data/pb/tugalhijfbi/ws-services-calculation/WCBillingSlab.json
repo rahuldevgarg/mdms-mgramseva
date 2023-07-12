@@ -67,7 +67,7 @@
             "buildingType": "RESIDENTIAL",
             "calculationAttribute": "Flat",
             "connectionType": "Non_Metered",
-            "minimumCharge": 60
+            "minimumCharge": 130
         },
         {
             "id": "6",
