@@ -121,6 +121,11 @@
       "code": "PROFILE_UPDATE",
       "name": "Profile update",
       "description": "Who has a access to update their own profile data"
+    },
+    {
+      "code": "PSPCL_ADMIN",
+      "name": "PSPCL ADMIN",
+      "description": "Used for PSPCL"
     }
   ]
 }

@@ -2752,6 +2752,485 @@
       "actionid": 1896,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 14,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 13,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 12,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1829,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1828,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
