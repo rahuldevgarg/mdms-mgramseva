@@ -1,0 +1,17 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ws-services-calculation",
+  "Penalty": [
+    {
+      "type": "Fixed",
+      "subType": "outstandingWithoutPenalty",
+      "rate": 10,
+      "amount":null,
+      "minAmount": null,
+      "applicableAfterDays": 10,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "1/01/2022"
+    }
+  ]
+}
