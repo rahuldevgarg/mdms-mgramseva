@@ -1,12 +1,12 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pb.kheri",
   "moduleName": "ws-services-calculation",
   "Penalty": [
     {
-      "type": "FLAT",
-      "subType": "currentMonth",
-      "rate": null,
-      "amount":0,
+      "type": "Fixed",
+      "subType": "outstandingWithoutPenalty",
+      "rate": 10,
+      "amount":null,
       "minAmount": null,
       "applicableAfterDays": 10,
       "flatAmount": null,
