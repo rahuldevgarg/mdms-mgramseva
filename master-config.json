@@ -405,7 +405,7 @@
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -506,7 +506,7 @@
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
