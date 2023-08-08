@@ -321,6 +321,56 @@
       "accountNumber": "R17SP290741Y",
       "departmentEntityName":"CHANDPUR",
       "departmentEntityCode": "7311"
+    },
+    {
+      "accountNumber": "R16SP250050L",
+      "departmentEntityName":"SAIDPUR",
+      "departmentEntityCode": "7249"
+    },
+    {
+      "accountNumber": "R14SP200083H",
+      "departmentEntityName":"MADHOPUR",
+      "departmentEntityCode": "7218"
+    },
+    {
+      "accountNumber": "R16SP250052W",
+      "departmentEntityName":"PACHRANDA",
+      "departmentEntityCode": "7232"
+    },
+    {
+      "accountNumber": "R14SP200082A",
+      "departmentEntityName":"BALEWAL",
+      "departmentEntityCode": "7151"
+    },
+    {
+      "accountNumber": "R11SP131026X",
+      "departmentEntityName":"DHAHE",
+      "departmentEntityCode": "7324"
+    },
+    {
+      "accountNumber": "R11SP131027A",
+      "departmentEntityName":"SUREWALLOWER",
+      "departmentEntityCode": "7430"
+    },
+    {
+      "accountNumber": "3001451629",
+      "departmentEntityName":"GARDOLIAN",
+      "departmentEntityCode": "15543"
+    },
+    {
+      "accountNumber": "R12SP150060L",
+      "departmentEntityName":"PATTIDULACHI",
+      "departmentEntityCode": "7409"
+    },
+    {
+      "accountNumber": "R17SP290726K",
+      "departmentEntityName":"DABOURUPPER",
+      "departmentEntityCode": "15701"
+    },
+    {
+      "accountNumber": "3007447302",
+      "departmentEntityName":"GANGUWAL",
+      "departmentEntityCode": "7335"
     }
   ]
 }
