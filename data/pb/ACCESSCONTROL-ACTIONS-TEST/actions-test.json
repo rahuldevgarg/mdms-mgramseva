@@ -1292,6 +1292,17 @@
       "path": ""
     },
     {
+      "id": 2037,
+      "name": "SearchUser",
+      "url": "/user/_searchByTenant",
+      "displayName": "Search User by tenant",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 2036,
       "name": "Expense Update",
       "url": "/echallan-services/eChallan/v1/_updateCreateNoPayment",
@@ -1300,6 +1311,30 @@
       "orderNumber": 0,
       "enabled": false,
       "serviceCode": "echallan-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2038,
+      "name": " bill report",
+      "url": "/ws-services/wc/_billReport",
+      "parentModule": "",
+      "displayName": "get bill report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2039,
+      "name": " collection report",
+      "url": "/ws-services/wc/_collectionReport",
+      "parentModule": "",
+      "displayName": "get collection report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
       "code": "null",
       "path": ""
     }

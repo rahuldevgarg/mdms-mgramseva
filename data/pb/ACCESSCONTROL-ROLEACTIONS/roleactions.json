@@ -3782,6 +3782,90 @@
       "actionid": 2036,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2037,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2037,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
