@@ -30,6 +30,16 @@
           "value": "en_IN"
         }
       ],
+      "stateLevelReports": [
+        {
+           "label": "ROLL_OUT_DASHBOARD",
+           "url": "http://metabase-dwss.psegs.in/public/dashboard/7ba70453-ad98-4c79-ba1f-2c6be65f0549"
+        },
+        {
+          "label": "iFix_DASHBOARD",
+          "url": "https://ifix-dwss.psegs.in/digit-ui/employee/dss/dashboard/ifix"
+        }
+      ],
       "localizationModules": [
         {
           "label": "rainmaker-abg",
