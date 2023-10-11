@@ -1337,6 +1337,18 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+    "id": 2040,
+    "name": " inactive consumer report",
+    "url": "/ws-services/wc/_inactiveConsumerReport",
+    "parentModule": "",
+    "displayName": "get inactive consumer report",
+    "orderNumber": 2,
+    "enabled": false,
+    "serviceCode": "ws-service",
+    "code": "null",
+    "path": ""
+  }
   ]
 }
