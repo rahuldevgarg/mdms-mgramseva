@@ -1,0 +1,66 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ws-services-masters",
+  "WSServiceRoles": [
+    {
+      "code": "EMPLOYEE",
+      "name": "Employee",
+      "description": "Default role for all employees"
+    },
+    {
+      "code": "SYSTEM",
+      "name": "System user",
+      "description": "System user role"
+    },
+    {
+      "code": "GP_ADMIN",
+      "name": "GP Admin",
+      "description": "Who has a access to ws-services"
+    },
+    {
+      "code": "COLLECTION_OPERATOR",
+      "name": "Collection Operator",
+      "description": "Who has a access to ws-services,demand, bill and payment"
+    },
+    {
+      "code": "BULK_DEMAND_PROCESSING",
+      "name": "Bulk Demand Processing",
+      "description": "Who has a access to bulk demand generation,raise bill, downloa bill and receipts"
+    },
+    {
+      "code": "EXPENSE_PROCESSING",
+      "name": "Expense Processing",
+      "description": "Who has a access to create and update expenses"
+    },
+    {
+      "code": "DASHBOARD_VIEWER",
+      "name": "Dashbaord Viewer",
+      "description": "Who has a access to dashboard of revenue and expenditure"
+    },
+    {
+      "code": "PROFILE_UPDATE",
+      "name": "Profile update",
+      "description": "Who has a access to update their own profile data"
+    },
+    {
+      "code": "DIV_ADMIN",
+      "name": "DIVISION ADMIN",
+      "description": "Used for Internal team Debug"
+    },
+    {
+      "code":"HRMS_ADMIN",
+      "name":"HRMS_ADMIN",
+      "description":"hrms admin"
+    },
+    {
+      "code": "LOC_ADMIN",
+      "name": "Localisation admin",
+      "description": "LOC_ADMIN"
+    },
+    {
+      "code": "MDMS_ADMIN",
+      "name": "MDMS ADMIN",
+      "description": "MDMS User that can create and search schema"
+    }
+  ]
+}
