@@ -1361,6 +1361,66 @@
     "serviceCode": "vendor",
     "code": "null",
     "path": ""
-  }
+  },
+    {
+      "id": 2042,
+      "name": "Employee search list",
+      "url": "/egov-hrms/employees/_searchListOfEmployee",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee search list",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2043,
+      "name": "Employee Count",
+      "url": "/egov-hrms/employees/v1/_count",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee Count",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2044,
+      "name": "BusinessService Create",
+      "url": "/egov-workflow-v2/egov-wf/businessservice/_create",
+      "parentModule": "",
+      "displayName": "BusinessService Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2045,
+      "name": "BusinessService Update",
+      "url": "/egov-workflow-v2/egov-wf/businessservice/_update",
+      "parentModule": "",
+      "displayName": "BusinessService Update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2046,
+      "name": "BusinessService Search",
+      "url": "/egov-workflow-v2/egov-wf/businessservice/_search",
+      "parentModule": "",
+      "displayName": "BusinessService Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
