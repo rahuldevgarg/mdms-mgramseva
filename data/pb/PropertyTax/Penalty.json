@@ -3,7 +3,7 @@
   "moduleName": "PropertyTax",
   "Penalty": [
     {
-      "rate": 10,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2018-19",
