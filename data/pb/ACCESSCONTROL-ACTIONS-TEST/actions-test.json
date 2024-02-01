@@ -1445,6 +1445,18 @@
     "serviceCode": "echallan-services",
     "code": "null",
     "path": ""
-  }
+  },
+    {
+      "id": 2049,
+      "name": "Last demandGennerated",
+      "url": "/ws-services/wc/_countWCbyDemandGenerationDate",
+      "parentModule": "",
+      "displayName": "get the number of bill gennerated by date",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
