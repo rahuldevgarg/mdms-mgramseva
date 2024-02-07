@@ -3,8 +3,8 @@
   "moduleName": "common-masters",
   "AppVersion": [
     {
-      "latestAppVersion": "1.2.19",
-      "latestAppVersionIos": "1.2.4",
+      "latestAppVersion": "1.2.20",
+      "latestAppVersionIos": "1.2.19",
       "packageName": "com.dwss.mgramseva"
     }
  ]
